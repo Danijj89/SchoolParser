@@ -1,0 +1,270 @@
+Acton-Boxborough Regional High, 2015, 111, 120, 31, 1, 46.5
+Agawam High, 2015, 1062, 256, 37, 11, 61.0
+Amesbury High, 2015, 364, 388, 162, 42, 48.75
+Amherst Regional High, 2015, 252, 138, 41, 14, 63.0
+Andover High, 2015, 377, 219, 40, 20, 52.5
+Arlington High, 2015, 877, 393, 98, 12, 50.5
+Oakmont Regional High School, 2015, 522, 213, 49, 4, 49.75
+Ashland High, 2015, 253, 202, 52, 14, 44.25
+Assabet Valley Vocational High School, 2015, 333, 180, 29, 0, 61.75
+Athol High, 2015, 229, 451, 102, 16, 45.0
+Attleboro High, 2015, 57, 105, 64, 17, 41.0
+Auburn Senior High, 2015, 469, 452, 188, 54, 44.75
+Ayer Shirley Regional High School, 2015, 215, 202, 31, 3, 42.75
+Bedford High, 2015, 99, 99, 37, 9, 43.5
+Belchertown High, 2015, 383, 187, 43, 5, 58.0
+Bellingham High School, 2015, 274, 199, 26, 1, 68.0
+Belmont High, 2015, 165, 167, 41, 16, 41.0
+Monument Mt Regional High, 2015, 671, 183, 25, 2, 48.5
+Beverly High, 2015, 176, 160, 61, 13, 45.0
+Billerica Memorial High School, 2015, 466, 331, 109, 30, 37.75
+Blackstone Valley, 2015, 430, 297, 113, 32, 41.5
+Blackstone Millville RHS, 2015, 489, 338, 38, 2, 55.5
+Blue Hills Regional Vocational Technical, 2015, 164, 150, 25, 4, 51.5
+Another Course To College, 2015, 216, 359, 80, 8, 48.5
+Boston Arts Academy, 2015, 49, 59, 44, 3, 56.0
+Boston Community Leadership Academy, 2015, 69, 173, 77, 10, 32.5
+Boston International  High School, 2015, 49, 191, 121, 33, 42.5
+Brighton High, 2015, 45, 89, 55, 6, 0.0
+Charlestown High, 2015, 35, 156, 159, 106, 31.5
+Community Academy of Science and Health, 2015, 64, 154, 99, 105, 54.75
+Dorchester Academy, 2015, 19, 67, 67, 30, 56.25
+East Boston High, 2015, 15, 66, 67, 39, 33.5
+Excel High School, 2015, 123, 387, 294, 111, 40.0
+Fenway High School, 2015, 37, 107, 58, 15, 38.25
+Jeremiah E Burke High, 2015, 63, 100, 49, 6, 47.75
+Lyon Upper 9-12, 2015, 33, 104, 63, 12, 56.0
+Madison Park High, 2015, 12, 31, 32, 12, 36.5
+Margarita Muniz Academy, 2015, 23, 203, 185, 204, 35.25
+New Mission High School, 2015, 24, 65, 60, 13, 65.0
+Snowden International School at Copley, 2015, 66, 112, 46, 3, 48.5
+The English High, 2015, 36, 123, 46, 11, 47.5
+Urban Science Academy, 2015, 42, 122, 86, 30, 73.5
+West Roxbury Academy, 2015, 23, 86, 58, 33, 37.25
+Boston Day and Evening Academy Charter School, 2015, 15, 107, 101, 46, 39.5
+Bourne High School, 2015, 11, 29, 18, 5, 0.0
+Braintree High, 2015, 88, 133, 32, 5, 49.0
+Bridgewater-Raynham Regional, 2015, 652, 375, 60, 10, 41.5
+Bristol County Agricultural High, 2015, 492, 444, 132, 35, 44.5
+Bristol-Plymouth Vocational Technical, 2015, 142, 169, 29, 5, 33.0
+Brockton Champion High School, 2015, 306, 463, 180, 19, 54.0
+Brockton High, 2015, 330, 510, 102, 60, 61.0
+Edison Academy, 2015, 433, 718, 478, 242, 53.0
+Brookline High, 2015, 677, 172, 32, 22, 60.0
+Burlington High, 2015, 541, 287, 76, 13, 50.0
+Cambridge Rindge and Latin, 2015, 583, 356, 132, 32, 55.0
+Canton High, 2015, 471, 213, 108, 30, 57.25
+Cape Cod Region Vocational Technical, 2015, 181, 244, 71, 9, 51.5
+Wahconah Regional High, 2015, 168, 168, 64, 19, 58.75
+Chelmsford High, 2015, 606, 194, 26, 20, 59.5
+Chelsea High, 2015, 267, 383, 124, 89, 36.5
+Chicopee Comprehensive High School, 2015, 245, 449, 180, 61, 35.0
+Chicopee High, 2015, 154, 376, 224, 61, 28.5
+City on a Hill Charter Public School Circuit Street, 2015, 76, 159, 100, 19, 76.5
+City on a Hill Charter Public School Dudley Square, 2015, 36, 120, 16, 1, 67.5
+Clinton Senior High, 2015, 79, 124, 37, 5, 52.0
+Concord Carlisle High, 2015, 503, 160, 47, 16, 55.5
+Danvers High, 2015, 491, 254, 41, 13, 55.0
+Dartmouth High, 2015, 356, 329, 81, 18, 35.0
+Dedham High, 2015, 294, 254, 52, 14, 51.25
+Dighton-Rehoboth Regional High School, 2015, 335, 191, 38, 11, 56.5
+Douglas High School, 2015, 170, 183, 45, 11, 50.75
+Dover-Sherborn Regional High, 2015, 314, 80, 20, 0, 70.5
+Dracut Senior High, 2015, 260, 211, 31, 14, 62.5
+Shepherd Hill Regional High, 2015, 353, 315, 67, 16, 41.5
+Duxbury High, 2015, 490, 267, 48, 5, 58.5
+East Longmeadow High, 2015, 357, 280, 61, 6, 45.0
+Easthampton High, 2015, 141, 203, 75, 7, 45.5
+Oliver Ames High, 2015, 347, 250, 66, 12, 33.5
+Edward M. Kennedy Academy for Health Careers, 2015, 114, 231, 109, 8, 46.5
+Essex Technical High School, 2015, 244, 262, 113, 16, 54.25
+Everett High, 2015, 412, 481, 177, 70, 57.5
+Fairhaven High, 2015, 221, 278, 179, 41, 48.25
+B M C Durfee High, 2015, 394, 437, 210, 115, 43.75
+Resiliency Preparatory School, 2015, 72, 198, 189, 45, 0.0
+Falmouth High, 2015, 279, 138, 30, 19, 51.0
+Fitchburg High, 2015, 209, 318, 155, 47, 44.0
+Foxborough High, 2015, 26, 92, 117, 23, 0.0
+Framingham High School, 2015, 312, 260, 45, 9, 44.0
+Franklin High, 2015, 765, 525, 114, 38, 59.5
+Franklin County Technical, 2015, 744, 361, 59, 12, 45.0
+Apponequet Regional High, 2015, 65, 212, 72, 13, 44.5
+Gardner Academy for Learning and Technology, 2015, 276, 138, 41, 6, 62.0
+Gardner High, 2015, 36, 82, 20, 7, 35.5
+Gateway Regional High, 2015, 73, 125, 72, 15, 38.5
+Georgetown High School, 2015, 104, 72, 27, 6, 58.0
+Turners Fall High, 2015, 111, 118, 13, 5, 46.25
+Gloucester High, 2015, 123, 151, 24, 10, 43.0
+Grafton High School, 2015, 235, 219, 79, 25, 50.25
+Diman Regional Vocational Technical High, 2015, 305, 338, 62, 17, 43.0
+Gr Lawrence Regional Vocational Technical, 2015, 254, 565, 179, 42, 49.0
+Gr Lowell Regional Vocational Technical, 2015, 208, 621, 251, 117, 47.5
+Gr New Bedford Vocational Technical, 2015, 377, 824, 271, 77, 52.0
+Groton Dunstable Regional, 2015, 352, 547, 313, 62, 43.5
+Hamilton-Wenham Regional High, 2015, 397, 139, 15, 3, 67.5
+Minnechaug Regional High, 2015, 390, 182, 21, 8, 59.0
+Hanover High, 2015, 368, 299, 86, 12, 49.5
+Haverhill High, 2015, 312, 416, 81, 19, 36.5
+Hingham High, 2015, 513, 317, 236, 98, 47.0
+Holliston High, 2015, 530, 212, 28, 14, 59.5
+Holyoke High, 2015, 335, 298, 40, 23, 59.5
+Wm J Dean Vocational Technical High, 2015, 117, 252, 175, 77, 36.5
+Hopkinton High, 2015, 224, 55, 49, 66, 35.75
+Hull High, 2015, 445, 133, 21, 4, 64.25
+Ipswich High, 2015, 180, 100, 25, 5, 53.5
+King Philip Regional High, 2015, 351, 212, 46, 6, 44.25
+Business Management & Finance High School, 2015, 367, 254, 73, 16, 51.0
+Health & Human Services High School, 2015, 38, 102, 80, 31, 52.0
+Humanities & Leadership Development High School, 2015, 67, 127, 96, 32, 71.75
+International High School, 2015, 23, 71, 127, 87, 48.5
+Math Science & Technology High School, 2015, 45, 62, 29, 140, 57.0
+Performing & Fine Arts High School, 2015, 81, 156, 98, 31, 42.5
+Phoenix Academy Lawrence, 2015, 34, 75, 114, 57, 30.0
+Leicester High, 2015, 98, 87, 28, 4, 41.5
+Center For Technical Education Innovation, 2015, 106, 191, 35, 23, 35.75
+Leominster High School, 2015, 264, 268, 99, 32, 39.0
+Lexington High, 2015, 939, 185, 30, 3, 57.0
+Lincoln-Sudbury Regional High, 2015, 1038, 307, 28, 14, 51.5
+Littleton High School, 2015, 362, 269, 36, 12, 57.75
+Longmeadow High, 2015, 388, 141, 24, 7, 56.0
+Lowell High, 2015, 625, 633, 188, 113, 45.25
+Ludlow Senior High, 2015, 194, 360, 212, 78, 53.0
+Classical High, 2015, 274, 347, 126, 45, 54.0
+Lynn English High, 2015, 265, 349, 290, 122, 53.5
+Lynn Vocational Technical Institute, 2015, 184, 331, 265, 134, 59.75
+Lynnfield High, 2015, 159, 141, 181, 68, 51.25
+Malden High, 2015, 340, 308, 39, 8, 51.5
+Manchester Essex Regional High School, 2015, 342, 314, 181, 28, 53.5
+Mansfield High, 2015, 363, 173, 19, 8, 67.5
+Marblehead High, 2015, 578, 285, 63, 11, 69.0
+Marlborough High, 2015, 450, 222, 55, 14, 54.0
+Marshfield High, 2015, 371, 284, 74, 39, 44.0
+Martha\'s Vineyard Regional High, 2015, 393, 306, 88, 13, 46.0
+Masconomet Regional High School, 2015, 397, 208, 39, 9, 48.5
+Mashpee High, 2015, 450, 241, 47, 3, 53.5
+Medfield Senior High, 2015, 216, 135, 57, 8, 57.5
+Medford High, 2015, 421, 215, 41, 3, 66.25
+Medford Vocational Technical High, 2015, 195, 225, 91, 14, 63.0
+Medway High, 2015, 156, 70, 27, 5, 55.0
+Melrose High, 2015, 361, 195, 41, 6, 48.5
+Nipmuc Regional High, 2015, 324, 179, 55, 12, 55.0
+Methuen High, 2015, 297, 260, 41, 15, 58.0
+Middleborough High, 2015, 277, 375, 169, 65, 40.0
+Milford High, 2015, 254, 231, 83, 26, 42.75
+Millis High School, 2015, 259, 199, 102, 22, 50.25
+Milton High, 2015, 244, 135, 18, 5, 40.5
+Minuteman Regional High, 2015, 324, 251, 47, 13, 48.75
+Monson Innovation High School, 2015, 110, 203, 83, 17, 46.0
+Montachusett Regional Vocational Technical, 2015, 193, 286, 50, 8, 40.5
+Nantucket High, 2015, 307, 384, 126, 16, 61.75
+Narragansett Regional High, 2015, 117, 114, 48, 21, 55.5
+Nashoba Regional, 2015, 222, 142, 36, 10, 50.5
+Nashoba Valley Technical High School, 2015, 344, 299, 42, 2, 43.0
+Natick High, 2015, 360, 282, 68, 17, 53.0
+Nauset Regional High, 2015, 647, 240, 56, 6, 60.25
+Needham High, 2015, 556, 272, 42, 6, 49.5
+New Bedford High, 2015, 585, 466, 135, 46, 32.25
+Newburyport High, 2015, 269, 282, 328, 219, 40.5
+Newton North High, 2015, 625, 212, 43, 14, 56.25
+Newton South High, 2015, 965, 346, 65, 10, 56.0
+Norfolk County Agricultural, 2015, 658, 275, 60, 4, 50.0
+North Andover High, 2015, 325, 207, 30, 3, 45.5
+North Attleboro High, 2015, 477, 316, 70, 20, 40.75
+North Middlesex Regional, 2015, 423, 247, 41, 23, 47.0
+North Reading High, 2015, 316, 201, 68, 17, 49.25
+Northampton High, 2015, 384, 169, 44, 3, 51.0
+Smith Vocational and Agricultural High, 2015, 255, 220, 55, 11, 55.0
+Algonquin Regional High, 2015, 320, 168, 59, 24, 63.75
+Northbridge High, 2015, 509, 258, 52, 8, 57.75
+Northeast Metro Regional Vocational, 2015, 155, 327, 84, 16, 48.0
+Charles McCann Vocational Technical, 2015, 141, 365, 217, 38, 40.0
+Norton High, 2015, 174, 202, 57, 6, 50.0
+Norwell High, 2015, 335, 175, 34, 5, 53.75
+Norwood High, 2015, 340, 209, 23, 8, 46.75
+Old Colony Regional Vocational Technical, 2015, 230, 268, 66, 32, 43.75
+Old Rochester Regional High, 2015, 191, 203, 55, 7, 39.0
+Oxford High, 2015, 218, 169, 50, 10, 47.0
+Pathfinder Vocational Technical, 2015, 79, 177, 46, 11, 36.75
+Paulo Freire Social Justice Charter School, 2015, 62, 177, 88, 21, 54.25
+Peabody Veterans Memorial High, 2015, 166, 296, 45, 16, 35.0
+Pembroke High School, 2015, 399, 413, 188, 35, 49.0
+Pentucket Regional Sr High, 2015, 351, 218, 69, 26, 51.0
+Phoenix Charter Academy, 2015, 220, 114, 31, 9, 58.0
+Pittsfield High, 2015, 11, 25, 27, 5, 0.0
+Taconic High, 2015, 185, 243, 145, 66, 27.25
+Plymouth North High, 2015, 189, 285, 106, 15, 34.0
+Plymouth South High, 2015, 350, 393, 101, 39, 32.5
+Quabbin Regional High School, 2015, 291, 311, 77, 18, 42.0
+Quaboag Regional High, 2015, 194, 210, 73, 6, 49.0
+North Quincy High, 2015, 130, 131, 26, 9, 53.5
+Quincy High, 2015, 407, 259, 73, 44, 67.5
+Randolph High, 2015, 360, 418, 146, 38, 52.25
+Reading Memorial High, 2015, 122, 188, 100, 41, 60.5
+Revere High, 2015, 628, 332, 73, 14, 50.25
+Rockland Senior High, 2015, 412, 433, 167, 54, 45.5
+Rockport High, 2015, 121, 210, 88, 11, 40.5
+Salem High, 2015, 112, 87, 24, 1, 43.25
+Sandwich High, 2015, 208, 213, 127, 28, 53.0
+Saugus High, 2015, 257, 229, 60, 6, 39.0
+Scituate High School, 2015, 181, 280, 95, 21, 32.75
+Seekonk High, 2015, 399, 225, 55, 11, 36.0
+Sharon High, 2015, 211, 146, 44, 6, 45.5
+Shawsheen Valley Vocational Technical High School, 2015, 515, 185, 45, 12, 63.25
+Shrewsbury Sr High, 2015, 441, 438, 94, 13, 70.0
+Silver Lake Regional High, 2015, 825, 307, 74, 5, 53.0
+Somerset Berkley Regional High School, 2015, 382, 328, 116, 22, 50.5
+Somerville High, 2015, 343, 284, 88, 18, 50.5
+South Hadley High, 2015, 384, 280, 131, 37, 73.0
+Joseph P Keefe Technical High School, 2015, 169, 165, 53, 11, 52.5
+So Shore Vocational Technical High, 2015, 86, 210, 119, 33, 52.75
+Southeastern Regional Vocational Technical, 2015, 105, 245, 61, 12, 52.5
+Bay Path Regional Vocational Technical High School, 2015, 249, 481, 204, 32, 53.5
+Southwick-Tolland Regional High, 2015, 259, 405, 83, 24, 49.0
+David Prouty High, 2015, 179, 136, 32, 7, 51.25
+High School Of Commerce, 2015, 106, 146, 58, 9, 42.0
+Roger L. Putnam Vocational Technical Academy, 2015, 60, 279, 248, 190, 49.75
+Springfield Central High, 2015, 152, 399, 373, 105, 53.5
+Springfield High School of Science and Technology, 2015, 253, 543, 378, 155, 47.0
+Springfield Public Day High School, 2015, 55, 261, 337, 276, 42.5
+Stoneham High, 2015, 0, 2, 8, 23, 0.0
+Stoughton High, 2015, 331, 130, 29, 8, 59.0
+Sturgis Charter Public School, 2015, 307, 304, 70, 12, 45.5
+Sutton High School, 2015, 387, 135, 17, 0, 65.5
+Swampscott High, 2015, 116, 126, 52, 3, 41.0
+Joseph Case High, 2015, 310, 197, 27, 4, 51.5
+Tantasqua Regional Sr High, 2015, 172, 159, 42, 13, 60.75
+Tantasqua Regional Vocational, 2015, 341, 173, 53, 15, 51.25
+Tewksbury Memorial High, 2015, 95, 214, 102, 15, 40.0
+Tri County Regional Vocational Technical, 2015, 345, 346, 87, 11, 51.5
+Triton Regional High School, 2015, 258, 410, 88, 19, 45.5
+Tyngsborough High School, 2015, 265, 199, 36, 3, 49.0
+Upper Cape Cod Vocational Technical, 2015, 213, 107, 22, 3, 58.25
+Uxbridge High, 2015, 154, 281, 91, 10, 44.75
+Wachusett Regional High, 2015, 140, 159, 36, 22, 47.5
+Wakefield Memorial High, 2015, 880, 500, 107, 17, 55.25
+Walpole High, 2015, 341, 262, 56, 20, 46.5
+Waltham Sr High, 2015, 509, 256, 38, 11, 51.5
+Wareham Senior High, 2015, 419, 391, 138, 82, 55.0
+Watertown High, 2015, 82, 142, 119, 29, 35.0
+Wayland High School, 2015, 195, 195, 72, 25, 57.0
+Wellesley Sr High, 2015, 432, 125, 14, 2, 50.25
+West Springfield High, 2015, 700, 264, 59, 11, 56.5
+Westborough High, 2015, 331, 311, 126, 52, 39.0
+Westfield High, 2015, 500, 159, 20, 10, 66.5
+Westfield Vocational Technical High, 2015, 317, 340, 136, 42, 46.5
+Westford Academy, 2015, 63, 177, 80, 23, 46.75
+Weston High, 2015, 896, 259, 32, 9, 46.5
+Westport High, 2015, 358, 166, 34, 1, 50.5
+Westwood High, 2015, 115, 103, 31, 4, 49.0
+Weymouth High School, 2015, 524, 198, 15, 8, 47.0
+Whitman Hanson Regional, 2015, 489, 611, 187, 51, 52.0
+Whittier Regional Vocational, 2015, 378, 336, 84, 14, 45.5
+Wilmington High, 2015, 312, 523, 164, 33, 55.5
+Murdock High School, 2015, 338, 233, 72, 6, 46.5
+Winchester High School, 2015, 43, 79, 64, 12, 36.75
+Woburn High, 2015, 615, 171, 15, 7, 65.5
+Burncoat Senior High, 2015, 386, 353, 127, 47, 44.5
+Doherty Memorial High, 2015, 120, 216, 174, 54, 44.5
+North High, 2015, 311, 315, 162, 70, 49.0
+South High Community, 2015, 77, 282, 261, 147, 37.0
+Worcester Technical High, 2015, 203, 255, 188, 114, 58.0

@@ -1,0 +1,270 @@
+Acton-Boxborough Regional High, 2016, 157, 153, 37, 18, 54.25
+Agawam High, 2016, 994, 276, 26, 9, 66.0
+Amesbury High, 2016, 346, 375, 129, 22, 48.0
+Amherst Regional High, 2016, 203, 164, 48, 23, 48.5
+Andover High, 2016, 394, 189, 40, 17, 48.5
+Arlington High, 2016, 733, 392, 76, 11, 48.0
+Oakmont Regional High School, 2016, 582, 230, 51, 7, 46.25
+Ashland High, 2016, 253, 236, 51, 8, 57.5
+Assabet Valley Vocational High School, 2016, 352, 145, 10, 0, 72.0
+Athol High, 2016, 204, 397, 141, 38, 51.25
+Attleboro High, 2016, 61, 111, 54, 22, 44.75
+Auburn Senior High, 2016, 538, 432, 175, 41, 45.0
+Ayer Shirley Regional High School, 2016, 181, 226, 70, 11, 34.5
+Bedford High, 2016, 92, 110, 39, 9, 46.75
+Belchertown High, 2016, 385, 196, 45, 4, 58.75
+Belmont High, 2016, 313, 140, 30, 5, 69.0
+Monument Mt Regional High, 2016, 775, 169, 19, 6, 61.75
+Beverly High, 2016, 154, 151, 40, 5, 48.75
+Billerica Memorial High School, 2016, 493, 312, 106, 34, 43.5
+Blackstone Valley, 2016, 430, 322, 101, 21, 47.0
+Blackstone Millville RHS, 2016, 569, 289, 26, 3, 66.0
+Blue Hills Regional Vocational Technical, 2016, 120, 103, 47, 18, 45.0
+Another Course To College, 2016, 240, 342, 89, 11, 48.5
+Boston Arts Academy, 2016, 29, 73, 54, 9, 54.5
+Boston Collaborative High School, 2016, 54, 129, 73, 0, 29.75
+Boston Community Leadership Academy, 2016, 63, 124, 28, 26, 57.75
+Boston International High School, 2016, 40, 136, 58, 14, 0.0
+Brighton High, 2016, 35, 156, 113, 78, 39.0
+Charlestown High, 2016, 41, 238, 161, 106, 46.75
+Community Academy of Science and Health, 2016, 16, 99, 123, 78, 34.0
+East Boston High, 2016, 141, 264, 160, 77, 49.25
+Excel High School, 2016, 56, 202, 166, 50, 39.5
+Fenway High School, 2016, 32, 128, 59, 10, 37.75
+Jeremiah E Burke High, 2016, 37, 144, 90, 10, 44.5
+Lyon Upper 9-12, 2016, 14, 52, 51, 11, 23.75
+Madison Park High, 2016, 16, 144, 123, 52, 31.75
+Margarita Muniz Academy, 2016, 25, 85, 78, 43, 55.25
+New Mission High School, 2016, 56, 106, 47, 6, 60.5
+Snowden International School at Copley, 2016, 38, 111, 46, 8, 51.25
+The English High, 2016, 37, 123, 84, 28, 65.5
+Urban Science Academy, 2016, 21, 115, 77, 41, 35.75
+West Roxbury Academy, 2016, 28, 119, 73, 67, 43.25
+Boston Day and Evening Academy Charter School, 2016, 8, 51, 65, 30, 0.0
+Bourne High School, 2016, 87, 75, 38, 13, 51.5
+Braintree High, 2016, 562, 272, 49, 19, 43.25
+Bridgewater-Raynham Regional, 2016, 509, 456, 90, 20, 38.0
+Bristol County Agricultural High, 2016, 180, 282, 94, 11, 37.0
+Bristol-Plymouth Vocational Technical, 2016, 289, 374, 83, 17, 51.25
+Brockton Champion High School, 2016, 40, 173, 124, 12, 0.0
+Brockton High, 2016, 675, 731, 296, 167, 58.0
+Brookline High, 2016, 865, 542, 303, 84, 55.0
+Burlington High, 2016, 581, 238, 60, 15, 0.0
+Cambridge Rindge and Latin, 2016, 540, 408, 153, 29, 50.0
+Canton High, 2016, 488, 293, 121, 16, 49.75
+Cape Cod Region Vocational Technical, 2016, 230, 256, 60, 13, 57.0
+Wahconah Regional High, 2016, 137, 176, 53, 10, 49.75
+Chelmsford High, 2016, 631, 177, 30, 15, 55.25
+Chelsea High, 2016, 344, 370, 209, 179, 40.5
+Chicopee Comprehensive High School, 2016, 244, 403, 240, 124, 37.25
+Chicopee High, 2016, 177, 345, 199, 56, 31.75
+City on a Hill Charter Public School Circuit Street, 2016, 57, 157, 87, 17, 52.0
+City on a Hill Charter Public School Dudley Square, 2016, 53, 105, 24, 5, 66.25
+City on a Hill Charter Public School New Bedford, 2016, 35, 69, 17, 7, 55.5
+Clinton Senior High, 2016, 97, 93, 34, 19, 59.0
+Concord Carlisle High, 2016, 537, 155, 48, 16, 51.0
+Danvers High, 2016, 473, 234, 43, 21, 51.25
+Dartmouth High, 2016, 322, 298, 83, 19, 38.0
+Dedham High, 2016, 247, 251, 43, 9, 54.0
+Dighton-Rehoboth Regional High School, 2016, 303, 196, 52, 9, 58.0
+Douglas High School, 2016, 156, 165, 42, 11, 46.5
+Dover-Sherborn Regional High, 2016, 307, 74, 24, 5, 68.5
+Dracut Senior High, 2016, 350, 135, 31, 10, 65.75
+Shepherd Hill Regional High, 2016, 350, 314, 78, 11, 39.0
+Duxbury High, 2016, 517, 252, 53, 13, 48.5
+East Longmeadow High, 2016, 370, 276, 39, 5, 50.75
+Easthampton High, 2016, 139, 199, 62, 8, 43.0
+Oliver Ames High, 2016, 432, 236, 46, 8, 44.75
+Edward M. Kennedy Academy for Health Careers, 2016, 138, 240, 85, 11, 48.0
+Essex Technical High School, 2016, 329, 278, 140, 19, 54.5
+Everett High, 2016, 385, 572, 224, 114, 61.0
+Fairhaven High, 2016, 221, 296, 173, 34, 52.5
+B M C Durfee High, 2016, 351, 395, 216, 137, 39.5
+Resiliency Preparatory School, 2016, 52, 210, 174, 62, 0.0
+Falmouth High, 2016, 265, 108, 25, 10, 49.5
+Fitchburg High, 2016, 222, 344, 140, 71, 41.5
+Foxborough High, 2016, 245, 224, 125, 30, 36.5
+Framingham High School, 2016, 611, 346, 80, 40, 63.5
+Franklin High, 2016, 817, 425, 71, 18, 42.0
+Franklin County Technical, 2016, 269, 353, 63, 9, 46.25
+Apponequet Regional High, 2016, 225, 203, 42, 14, 47.25
+Gardner Academy for Learning and Technology, 2016, 61, 97, 36, 10, 0.0
+Gateway Regional High, 2016, 38, 39, 18, 6, 52.0
+Georgetown High School, 2016, 147, 102, 16, 6, 63.5
+Turners Fall High, 2016, 85, 103, 19, 6, 41.75
+Gloucester High, 2016, 185, 192, 56, 20, 44.5
+Grafton High School, 2016, 320, 173, 75, 13, 45.0
+Diman Regional Vocational Technical High, 2016, 346, 411, 108, 14, 49.0
+Gr Lawrence Regional Vocational Technical, 2016, 250, 523, 176, 57, 55.5
+Gr Lowell Regional Vocational Technical, 2016, 305, 688, 311, 86, 56.0
+Gr New Bedford Vocational Technical, 2016, 423, 804, 302, 51, 43.0
+Groton Dunstable Regional, 2016, 371, 400, 147, 20, 61.0
+Hamilton-Wenham Regional High, 2016, 292, 152, 19, 2, 54.5
+Minnechaug Regional High, 2016, 411, 202, 47, 7, 56.5
+Hanover High, 2016, 313, 245, 70, 3, 45.0
+Haverhill High, 2016, 383, 398, 130, 49, 41.0
+Hingham High, 2016, 561, 300, 111, 31, 51.5
+Holliston High, 2016, 482, 184, 25, 5, 53.75
+Holyoke High, 2016, 258, 345, 96, 68, 46.5
+Wm J Dean Vocational Technical High, 2016, 33, 159, 133, 86, 31.5
+Hopkinton High, 2016, 438, 84, 39, 35, 58.25
+Hull High, 2016, 241, 109, 18, 7, 43.75
+Ipswich High, 2016, 173, 99, 22, 3, 49.0
+King Philip Regional High, 2016, 487, 229, 36, 5, 48.75
+Business Management & Finance High School, 2016, 222, 214, 97, 23, 37.75
+Health & Human Services High School, 2016, 100, 133, 93, 38, 78.0
+High School Learning Center, 2016, 14, 78, 27, 16, 0.0
+Humanities & Leadership Development High School, 2016, 88, 109, 31, 19, 59.75
+International High School, 2016, 5, 46, 68, 86, 0.0
+Math Science & Technology High School, 2016, 97, 91, 56, 47, 44.5
+Performing & Fine Arts High School, 2016, 56, 158, 98, 51, 41.0
+Phoenix Academy Lawrence, 2016, 10, 42, 59, 18, 0.0
+Leicester High, 2016, 98, 100, 31, 5, 43.75
+Center For Technical Education Innovation, 2016, 131, 202, 51, 13, 38.5
+Leominster High School, 2016, 286, 325, 117, 49, 42.0
+Lexington High, 2016, 985, 233, 36, 8, 50.25
+Lincoln-Sudbury Regional High, 2016, 998, 260, 40, 7, 56.0
+Littleton High School, 2016, 336, 209, 39, 3, 63.0
+Longmeadow High, 2016, 400, 131, 15, 1, 60.5
+Lowell High, 2016, 684, 632, 211, 108, 42.0
+Lowell Middlesex Academy Charter School, 2016, 127, 312, 163, 88, 0.0
+Ludlow Senior High, 2016, 217, 178, 48, 14, 55.0
+Classical High, 2016, 269, 447, 189, 74, 49.0
+Lynn English High, 2016, 242, 436, 281, 102, 54.5
+Lynn Vocational Technical Institute, 2016, 113, 323, 242, 80, 49.75
+Lynnfield High, 2016, 239, 140, 117, 19, 63.5
+Malden High, 2016, 403, 380, 102, 46, 48.75
+Manchester Essex Regional High School, 2016, 207, 203, 118, 21, 62.0
+Mansfield High, 2016, 485, 181, 37, 20, 66.25
+Marblehead High, 2016, 429, 273, 59, 9, 53.75
+Marlborough High, 2016, 353, 271, 92, 44, 42.0
+Marshfield High, 2016, 528, 296, 88, 19, 55.0
+Martha\'s Vineyard Regional High, 2016, 266, 287, 69, 16, 39.0
+Masconomet Regional High School, 2016, 471, 192, 39, 11, 54.5
+Mashpee High, 2016, 260, 179, 35, 8, 46.0
+Medfield Senior High, 2016, 367, 123, 24, 8, 58.0
+Medford High, 2016, 492, 240, 52, 27, 70.0
+Medford Vocational Technical High, 2016, 104, 194, 77, 16, 44.5
+Medway High, 2016, 276, 116, 33, 4, 55.75
+Melrose High, 2016, 327, 235, 59, 15, 57.5
+Nipmuc Regional High, 2016, 276, 170, 47, 9, 64.0
+Methuen High, 2016, 461, 399, 117, 42, 59.0
+Middleborough High, 2016, 226, 314, 179, 26, 54.25
+Milford High, 2016, 291, 259, 104, 41, 31.0
+Millis High School, 2016, 201, 183, 69, 16, 48.25
+Milton High, 2016, 359, 195, 42, 12, 49.25
+Minuteman Regional High, 2016, 224, 236, 53, 11, 54.75
+Monson Innovation High School, 2016, 110, 98, 40, 10, 41.25
+Montachusett Regional Vocational Technical, 2016, 262, 412, 77, 9, 45.5
+Nantucket High, 2016, 154, 304, 99, 18, 54.25
+Narragansett Regional High, 2016, 124, 115, 49, 15, 50.25
+Nashoba Regional, 2016, 414, 163, 32, 13, 55.0
+Nashoba Valley Technical High School, 2016, 273, 280, 59, 8, 45.5
+Natick High, 2016, 577, 273, 54, 10, 60.0
+Nauset Regional High, 2016, 531, 203, 38, 7, 53.5
+Needham High, 2016, 672, 253, 44, 4, 47.5
+New Bedford High, 2016, 265, 381, 154, 146, 31.75
+Newburyport High, 2016, 282, 151, 129, 84, 64.25
+Newton North High, 2016, 883, 307, 33, 9, 55.5
+Newton South High, 2016, 968, 331, 38, 18, 52.0
+Norfolk County Agricultural, 2016, 346, 275, 49, 9, 32.0
+North Andover High, 2016, 472, 297, 57, 20, 45.5
+North Attleboro High, 2016, 533, 326, 67, 23, 35.5
+North Middlesex Regional, 2016, 342, 261, 52, 21, 43.75
+North Reading High, 2016, 323, 241, 45, 10, 43.0
+Northampton High, 2016, 306, 251, 59, 14, 49.75
+Smith Vocational and Agricultural High, 2016, 140, 210, 63, 11, 51.5
+Algonquin Regional High, 2016, 542, 193, 46, 17, 62.0
+Northbridge High, 2016, 318, 251, 57, 11, 50.5
+Northeast Metro Regional Vocational, 2016, 208, 436, 116, 17, 49.0
+Charles McCann Vocational Technical, 2016, 95, 315, 115, 11, 47.5
+Norton High, 2016, 264, 187, 30, 11, 44.75
+Norwell High, 2016, 336, 144, 21, 4, 58.5
+Norwood High, 2016, 315, 221, 45, 14, 49.0
+Old Colony Regional Vocational Technical, 2016, 187, 222, 44, 18, 44.25
+Old Rochester Regional High, 2016, 255, 215, 50, 6, 48.25
+Oxford High, 2016, 128, 191, 65, 11, 35.0
+Pathfinder Vocational Technical, 2016, 89, 206, 88, 17, 35.25
+Paulo Freire Social Justice Charter School, 2016, 37, 146, 76, 12, 55.75
+Peabody Veterans Memorial High, 2016, 252, 384, 118, 45, 39.0
+Pembroke High School, 2016, 391, 370, 113, 17, 46.75
+Pentucket Regional Sr High, 2016, 319, 239, 63, 8, 52.75
+Phoenix Charter Academy, 2016, 75, 97, 28, 3, 0.0
+Pittsfield High, 2016, 14, 21, 7, 0, 0.0
+Taconic High, 2016, 176, 207, 114, 45, 39.5
+Plymouth North High, 2016, 138, 238, 104, 6, 27.25
+Plymouth South High, 2016, 345, 385, 112, 33, 30.5
+Quabbin Regional High School, 2016, 238, 416, 100, 18, 29.0
+Quaboag Regional High, 2016, 187, 232, 87, 6, 36.0
+North Quincy High, 2016, 105, 79, 25, 9, 48.75
+Quincy High, 2016, 486, 224, 72, 27, 69.25
+Randolph High, 2016, 384, 423, 164, 36, 50.5
+Reading Memorial High, 2016, 120, 196, 73, 30, 63.25
+Revere High, 2016, 472, 296, 35, 3, 51.0
+Rockland Senior High, 2016, 465, 465, 217, 77, 47.75
+Rockport High, 2016, 155, 184, 78, 20, 44.75
+Salem High, 2016, 97, 79, 18, 1, 48.0
+Sandwich High, 2016, 151, 269, 157, 46, 45.5
+Saugus High, 2016, 242, 199, 46, 8, 33.5
+Scituate High School, 2016, 108, 194, 78, 17, 27.5
+Seekonk High, 2016, 373, 198, 44, 17, 49.0
+Sharon High, 2016, 221, 144, 24, 5, 44.75
+Shawsheen Valley Vocational Technical High School, 2016, 561, 177, 13, 5, 61.0
+Shrewsbury Sr High, 2016, 546, 394, 67, 7, 80.0
+Silver Lake Regional High, 2016, 865, 314, 56, 14, 49.5
+Somerset Berkley Regional High School, 2016, 516, 335, 86, 18, 48.75
+Somerville High, 2016, 327, 224, 45, 19, 51.5
+South Hadley High, 2016, 276, 259, 125, 57, 73.0
+Joseph P Keefe Technical High School, 2016, 169, 163, 41, 13, 56.0
+So Shore Vocational Technical High, 2016, 111, 237, 113, 54, 59.75
+Southeastern Regional Vocational Technical, 2016, 95, 263, 108, 6, 51.25
+Bay Path Regional Vocational Technical High School, 2016, 246, 521, 251, 36, 55.0
+David Prouty High, 2016, 298, 407, 92, 14, 54.5
+High School Of Commerce, 2016, 47, 106, 38, 5, 40.5
+Roger L. Putnam Vocational Technical Academy, 2016, 53, 308, 331, 202, 43.25
+Springfield Central High, 2016, 197, 470, 273, 64, 51.5
+Springfield High School of Science and Technology, 2016, 250, 478, 350, 168, 50.0
+Springfield Public Day High School, 2016, 37, 262, 265, 278, 35.5
+Stoneham High, 2016, 1, 4, 15, 20, 0.0
+Stoughton High, 2016, 295, 103, 25, 14, 65.0
+Sturgis Charter Public School, 2016, 326, 285, 69, 26, 50.75
+Sutton High School, 2016, 393, 166, 18, 2, 62.0
+Swampscott High, 2016, 152, 120, 40, 15, 54.25
+Joseph Case High, 2016, 265, 177, 28, 7, 49.25
+Tantasqua Regional Sr High, 2016, 203, 120, 21, 3, 67.0
+Tantasqua Regional Vocational, 2016, 276, 170, 23, 5, 43.0
+Tewksbury Memorial High, 2016, 88, 198, 64, 15, 35.0
+Tri County Regional Vocational Technical, 2016, 344, 276, 56, 23, 54.0
+Triton Regional High School, 2016, 265, 320, 83, 7, 51.5
+Tyngsborough High School, 2016, 264, 199, 55, 8, 49.5
+Upper Cape Cod Vocational Technical, 2016, 193, 151, 15, 3, 52.0
+Uxbridge High, 2016, 194, 256, 73, 5, 42.25
+Wachusett Regional High, 2016, 134, 141, 66, 7, 54.0
+Wakefield Memorial High, 2016, 898, 470, 79, 13, 57.25
+Walpole High, 2016, 311, 359, 85, 22, 30.5
+Waltham Sr High, 2016, 464, 293, 55, 15, 45.75
+Wareham Senior High, 2016, 427, 398, 144, 107, 58.5
+Watertown High, 2016, 106, 127, 87, 26, 50.5
+Wayland High School, 2016, 206, 189, 48, 17, 51.0
+Bartlett High School, 2016, 454, 158, 16, 2, 49.0
+Wellesley Sr High, 2016, 74, 136, 80, 32, 46.0
+West Springfield High, 2016, 801, 307, 52, 8, 58.5
+Westborough High, 2016, 331, 351, 110, 59, 46.75
+Westfield High, 2016, 561, 172, 20, 7, 61.0
+Westfield Technical Academy, 2016, 397, 359, 125, 31, 52.5
+Westford Academy, 2016, 63, 218, 121, 25, 43.75
+Weston High, 2016, 931, 211, 24, 2, 52.5
+Westport Senior High School, 2016, 292, 110, 24, 0, 50.0
+Westwood High, 2016, 65, 93, 27, 6, 36.25
+Weymouth High School, 2016, 490, 197, 25, 10, 53.5
+Whitman Hanson Regional, 2016, 558, 613, 188, 46, 54.5
+Whittier Regional Vocational, 2016, 357, 410, 74, 19, 46.5
+Wilmington High, 2016, 300, 486, 140, 16, 52.75
+Murdock High School, 2016, 322, 279, 70, 13, 50.0
+Winchester High School, 2016, 33, 79, 47, 7, 41.5
+Woburn High, 2016, 693, 233, 35, 11, 61.25
+Burncoat Senior High, 2016, 433, 395, 117, 22, 49.5
+Doherty Memorial High, 2016, 173, 220, 163, 79, 48.0
+North High, 2016, 392, 352, 196, 89, 52.75
+South High Community, 2016, 111, 318, 276, 129, 40.0
+Worcester Technical High, 2016, 210, 302, 224, 88, 59.0

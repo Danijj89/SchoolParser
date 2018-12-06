@@ -1,0 +1,297 @@
+2013, Abington, 0.0, 0.0, 4.8, 0.0, 0.0, 0.0, 2.4
+2013, Agawam, 0.0, 0.0, 9.8, 9.1, 0.0, 0.0, 1.2
+2013, Amesbury, 0.0, 11.1, 4.0, 0.0, 0.0, 0.0, 1.2
+2013, Andover, 0.0, 0.0, 2.5, 2.2, 0.0, 0.0, 0.2
+2013, Arlington, 10.0, 0.0, 4.3, 3.8, 0.0, 0.0, 0.8
+2013, Ashland, 0.0, 0.0, 3.8, 6.7, 0.0, 0.0, 0.5
+2013, Attleboro, 3.4, 0.0, 1.1, 3.6, 0.0, 0.0, 1.6
+2013, Auburn, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4
+2013, Avon, 1.3, 0.0, 0.0, 0.0, 0.0, 0.0, 2.8
+2013, Barnstable, 2.4, 2.4, 1.0, 8.5, 11.1, 0.0, 2.1
+2013, Bedford, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Belchertown, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Bellingham, 14.3, 0.0, 6.3, 0.0, 0.0, 0.0, 0.7
+2013, Belmont, 1.7, 1.6, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Beverly, 0.0, 0.0, 2.2, 5.6, 0.0, 0.0, 1.1
+2013, Billerica, 0.0, 0.0, 3.3, 0.0, 0.0, 0.0, 1.7
+2013, Boston, 5.5, 1.5, 6.8, 6.3, 0.0, 9.1, 3.8
+2013, Bourne, 0.0, 0.0, 0.0, 3.0, 0.0, 0.0, 2.4
+2013, Braintree, 0.0, 0.0, 2.2, 0.0, 0.0, 0.0, 0.6
+2013, Brockton, 4.1, 1.8, 4.9, 1.1, 0.0, 0.0, 3.2
+2013, Brookline, 2.2, 0.0, 0.5, 0.0, 0.0, 0.0, 0.7
+2013, Burlington, 0.0, 0.0, 0.0, 2.8, 0.0, 0.0, 0.6
+2013, Cambridge, 1.4, 0.0, 4.2, 0.0, 0.0, 0.0, 0.8
+2013, Canton, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Carver, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2
+2013, Chelmsford, 2.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Chelsea, 5.2, 2.7, 7.3, 0.0, 0.0, 0.0, 2.7
+2013, Chicopee, 1.2, 0.0, 7.1, 3.6, 0.0, 0.0, 2.9
+2013, Clinton, 0.0, 0.0, 1.9, 0.0, 0.0, 0.0, 1.4
+2013, Cohasset, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Danvers, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 1.2
+2013, Dartmouth, 0.0, 0.0, 5.9, 7.7, 0.0, 0.0, 1.0
+2013, Dedham, 5.0, 0.0, 4.3, 0.0, 0.0, 0.0, 0.9
+2013, Douglas, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1
+2013, Dracut, 0.0, 7.0, 2.6, 0.0, 0.0, 0.0, 2.3
+2013, Duxbury, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, East Bridgewater, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Easthampton, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, East Longmeadow, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Easton, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.3
+2013, Everett, 1.4, 0.0, 4.1, 10.5, 0.0, 0.0, 2.5
+2013, Fairhaven, 14.3, 0.0, 4.8, 9.1, 0.0, 0.0, 2.7
+2013, Fall River, 6.3, 2.6, 5.4, 0.0, 0.0, 0.0, 5.4
+2013, Falmouth, 2.6, 0.0, 8.3, 0.0, 0.0, 0.0, 1.4
+2013, Fitchburg, 8.2, 0.0, 7.9, 0.0, 0.0, 0.0, 4.3
+2013, Foxborough, 2.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1
+2013, Framingham, 7.2, 0.8, 4.5, 6.7, 0.0, 0.0, 1.7
+2013, Franklin, 6.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Gardner, 11.8, 0.0, 5.0, 13.3, 0.0, 0.0, 5.2
+2013, Georgetown, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.5
+2013, Gloucester, 7.1, 0.0, 0.0, 0.0, 0.0, 0.0, 2.8
+2013, Grafton, 0.0, 0.0, 4.0, 0.0, 0.0, 0.0, 1.2
+2013, Granby, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Greenfield, 20.0, 0.0, 8.9, 0.0, 0.0, 0.0, 3.6
+2013, Hadley, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Hanover, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1
+2013, Harvard, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Hatfield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Haverhill, 6.8, 0.0, 7.4, 0.0, 0.0, 0.0, 4.1
+2013, Hingham, 13.3, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Holbrook, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Holliston, 0.0, 0.0, 5.9, 0.0, 0.0, 0.0, 0.1
+2013, Holyoke, 2.0, 0.0, 7.7, 0.0, 0.0, 0.0, 2.8
+2013, Hopedale, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Hopkinton, 0.0, 0.0, 5.9, 0.0, 0.0, 0.0, 0.1
+2013, Hudson, 0.0, 0.0, 4.5, 0.0, 0.0, 0.0, 0.4
+2013, Hull, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Ipswich, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Lawrence, 3.3, 0.0, 4.8, 0.0, 0.0, 0.0, 3.6
+2013, Lee, 0.0, 0.0, 4.5, 0.0, 0.0, 0.0, 2.5
+2013, Leicester, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Lenox, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Leominster, 0.0, 1.5, 2.2, 0.0, 0.0, 0.0, 0.8
+2013, Lexington, 1.2, 0.2, 0.0, 1.4, 0.0, 0.0, 0.2
+2013, Littleton, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Longmeadow, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Lowell, 1.4, 4.3, 4.7, 5.6, 0.0, 0.0, 3.0
+2013, Ludlow, 5.6, 0.0, 1.6, 0.0, 0.0, 0.0, 0.7
+2013, Lunenburg, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Lynn, 3.5, 2.6, 5.4, 4.1, 0.0, 0.0, 3.0
+2013, Lynnfield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Malden, 2.2, 1.3, 2.8, 4.8, 0.0, 0.0, 2.1
+2013, Mansfield, 0.0, 1.8, 0.0, 0.0, 0.0, 14.3, 0.4
+2013, Marblehead, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Marlborough, 0.0, 0.0, 2.3, 0.0, 0.0, 0.0, 2.1
+2013, Marshfield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Mashpee, 0.0, 0.0, 0.0, 5.0, 6.9, 0.0, 2.3
+2013, Maynard, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.2
+2013, Medfield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1
+2013, Medford, 3.4, 2.6, 1.7, 4.5, 0.0, 0.0, 1.6
+2013, Medway, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Melrose, 3.2, 0.0, 3.0, 0.0, 0.0, 0.0, 0.4
+2013, Methuen, 3.4, 1.6, 4.3, 0.0, 0.0, 0.0, 1.5
+2013, Middleborough, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 1.5
+2013, Milford, 10.3, 0.0, 6.3, 0.0, 0.0, 0.0, 2.0
+2013, Millbury, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 1.4
+2013, Millis, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Milton, 1.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Monson, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.8
+2013, Nantucket, 0.0, 0.0, 7.6, 0.0, 0.0, 0.0, 0.3
+2013, Natick, 0.0, 1.1, 1.8, 0.0, 0.0, 0.0, 0.2
+2013, Needham, 2.2, 1.0, 1.8, 0.0, 0.0, 0.0, 0.1
+2013, New Bedford, 5.3, 0.0, 6.7, 7.8, 4.8, 4.2, 3.8
+2013, Newburyport, 0.0, 12.5, 6.7, 5.9, 0.0, 0.0, 0.4
+2013, Newton, 0.5, 0.0, 0.0, 0.6, 0.0, 0.0, 0.1
+2013, North Adams, 0.0, 0.0, 0.0, 4.0, 0.0, 16.7, 4.0
+2013, Northampton, 7.4, 0.0, 0.0, 8.0, 0.0, 0.0, 0.4
+2013, North Andover, 0.0, 1.1, 1.2, 0.0, 0.0, 0.0, 0.1
+2013, North Attleborough, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Northbridge, 0.0, 0.0, 0.0, 5.9, 0.0, 0.0, 1.1
+2013, North Brookfield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, North Reading, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6
+2013, Norton, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.3
+2013, Norwell, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Norwood, 2.7, 0.0, 2.2, 14.3, 0.0, 0.0, 1.2
+2013, Oxford, 14.3, 0.0, 0.0, 0.0, 0.0, 0.0, 2.7
+2013, Palmer, 0.0, 0.0, 6.7, 11.1, 0.0, 0.0, 3.0
+2013, Peabody, 0.0, 0.0, 3.8, 4.2, 0.0, 0.0, 1.0
+2013, Pembroke, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1
+2013, Pittsfield, 3.5, 0.0, 0.0, 5.6, 0.0, 0.0, 2.0
+2013, Plymouth, 0.0, 0.0, 9.3, 0.0, 0.0, 0.0, 1.5
+2013, Quincy, 0.5, 1.2, 5.4, 5.4, 14.3, 0.0, 1.9
+2013, Randolph, 1.6, 0.8, 6.2, 0.0, 0.0, 0.0, 1.1
+2013, Reading, 0.0, 3.7, 0.0, 12.5, 0.0, 0.0, 0.4
+2013, Revere, 6.5, 2.1, 3.7, 9.4, 0.0, 0.0, 2.3
+2013, Rockland, 0.0, 0.0, 3.1, 0.0, 0.0, 0.0, 1.0
+2013, Rockport, 0.0, 0.0, 14.3, 11.1, 0.0, 0.0, 0.3
+2013, Salem, 0.0, 0.0, 1.2, 1.9, 0.0, 0.0, 1.4
+2013, Sandwich, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Saugus, 3.3, 0.0, 2.4, 0.0, 0.0, 0.0, 3.1
+2013, Scituate, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Seekonk, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Sharon, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Shrewsbury, 0.0, 0.0, 2.5, 0.0, 0.0, 0.0, 0.4
+2013, Somerville, 2.9, 2.1, 5.2, 0.0, 0.0, 0.0, 2.6
+2013, Southbridge, 0.0, 0.0, 2.9, 0.0, 0.0, 0.0, 6.6
+2013, South Hadley, 0.0, 0.0, 4.7, 0.0, 0.0, 0.0, 1.6
+2013, Springfield, 6.1, 0.5, 8.4, 3.8, 0.0, 0.0, 5.3
+2013, Stoneham, 0.0, 0.0, 21.7, 0.0, 0.0, 0.0, 0.7
+2013, Stoughton, 3.9, 0.0, 3.4, 16.7, 0.0, 0.0, 0.9
+2013, Sutton, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Swampscott, 4.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Swansea, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.3
+2013, Taunton, 2.2, 0.0, 1.4, 1.4, 0.0, 0.0, 1.7
+2013, Tewksbury, 0.0, 7.7, 0.0, 0.0, 0.0, 0.0, 1.3
+2013, Tyngsborough, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6
+2013, Uxbridge, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2
+2013, Wakefield, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Walpole, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Waltham, 2.6, 0.0, 6.8, 2.8, 0.0, 0.0, 2.7
+2013, Ware, 28.6, 0.0, 9.1, 0.0, 0.0, 0.0, 4.7
+2013, Wareham, 4.1, 0.0, 5.0, 4.9, 12.5, 0.0, 4.8
+2013, Watertown, 0.0, 3.2, 6.0, 0.0, 0.0, 0.0, 1.3
+2013, Wayland, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Webster, 5.0, 0.0, 10.6, 0.0, 0.0, 0.0, 6.7
+2013, Wellesley, 1.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Westborough, 0.0, 1.6, 0.0, 5.0, 0.0, 0.0, 0.4
+2013, West Boylston, 0.0, 0.0, 4.8, 0.0, 0.0, 0.0, 2.5
+2013, West Bridgewater, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Westfield, 2.7, 1.7, 17.2, 4.8, 0.0, 0.0, 0.9
+2013, Westford, 0.0, 0.0, 0.0, 1.4, 0.0, 0.0, 0.3
+2013, Weston, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Westport, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.6
+2013, West Springfield, 2.3, 1.6, 4.3, 6.7, 0.0, 0.0, 1.8
+2013, Westwood, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Weymouth, 4.6, 1.4, 5.4, 0.0, 0.0, 0.0, 1.8
+2013, Wilmington, 0.0, 0.0, 0.0, 6.3, 0.0, 0.0, 0.8
+2013, Winchendon, 0.0, 0.0, 7.1, 0.0, 0.0, 0.0, 2.3
+2013, Winchester, 0.0, 0.0, 2.9, 0.0, 0.0, 0.0, 0.2
+2013, Winthrop, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 3.4
+2013, Woburn, 3.8, 1.4, 4.9, 7.4, 0.0, 0.0, 2.3
+2013, Worcester, 1.4, 0.5, 3.4, 1.6, 3.4, 0.0, 2.4
+2013, Northampton-Smith Vocational Agricultural, 0.0, 0.0, 1.8, 0.0, 0.0, 0.0, 0.3
+2013, Boston Green Academy Horace Mann Charter School, 0.6, 0.0, 9.0, 0.0, 0.0, 0.0, 2.0
+2013, Academy Of the Pacific Rim Charter Public, 2.4, 0.0, 6.5, 0.0, 0.0, 0.0, 0.0
+2013, Four Rivers Charter Public, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 3.2
+2013, Berkshire Arts and Technology Charter Public, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 3.9
+2013, Amesbury Academy Charter Public (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.9
+2013, Boston Preparatory Charter Public, 0.8, 0.0, 3.9, 0.0, 0.0, 0.0, 0.0
+2013, Boston Day and Evening Academy Charter, 16.8, 0.0, 24.6, 27.3, 0.0, 0.0, 17.9
+2013, KIPP Academy Lynn Charter, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Advanced Math and Science Academy Charter (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Innovation Academy Charter, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Community Charter School of Cambridge, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, City on a Hill Charter Public School Circuit Street (District), 2.7, 0.0, 2.3, 0.0, 0.0, 0.0, 0.0
+2013, Codman Academy Charter Public (District), 2.4, 0.0, 4.3, 0.0, 0.0, 0.0, 0.0
+2013, Sabis International Charter, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.7
+2013, Abby Kelley Foster Charter Public (District), 0.0, 0.0, 1.2, 0.0, 0.0, 0.0, 0.0
+2013, Foxborough Regional Charter, 0.0, 0.0, 6.7, 0.0, 0.0, 0.0, 0.7
+2013, Boston Collegiate Charter, 4.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4
+2013, Edward M. Kennedy Academy for Health Careers, 0.6, 0.0, 0.8, 0.0, 0.0, 0.0, 6.3
+2013, Lowell Middlesex Academy Charter, 0.0, 0.0, 34.2, 0.0, 0.0, 0.0, 50.0
+2013, Martha\'s Vineyard Charter, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.9
+2013, New Liberty Charter School of Salem (District), 0.0, 0.0, 55.0, 0.0, 0.0, 0.0, 50.0
+2013, Ma Academy for Math and Science, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, MATCH Charter Public School (District), 0.6, 0.0, 1.1, 0.0, 0.0, 0.0, 0.0
+2013, Mystic Valley Regional Charter, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, The Sizer School: A North Central Charter Essential (District), 10.0, 0.0, 13.5, 0.0, 0.0, 0.0, 3.2
+2013, Spirit of Knowledge Charter School (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Francis W. Parker Charter Essential, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Pioneer Valley Performing Arts Charter Public, 0.0, 0.0, 4.3, 0.0, 0.0, 0.0, 1.4
+2013, Rising Tide Charter Public, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Salem Academy Charter, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 3.4
+2013, Prospect Hill Academy Charter, 1.6, 0.0, 1.6, 0.0, 0.0, 0.0, 0.0
+2013, South Shore Charter Public, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Sturgis Charter Public, 0.0, 0.0, 0.0, 2.2, 0.0, 0.0, 0.1
+2013, Phoenix Charter Academy, 36.0, 0.0, 54.4, 0.0, 0.0, 0.0, 53.3
+2013, Pioneer Charter School of Science, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Global Learning Charter Public, 0.0, 0.0, 7.7, 0.0, 0.0, 0.0, 0.0
+2013, Pioneer Valley Chinese Immersion Charte, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Hampden Charter School of Science, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Acton-Boxborough, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1
+2013, Adams-Cheshire, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.7
+2013, Amherst-Pelham, 0.0, 1.0, 1.6, 0.0, 0.0, 0.0, 0.7
+2013, Ashburnham-Westminster, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Athol-Royalston, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4
+2013, Ayer Shirley School District, 10.0, 0.0, 5.7, 0.0, 0.0, 0.0, 2.9
+2013, Berkshire Hills, 0.0, 0.0, 3.7, 0.0, 0.0, 0.0, 1.0
+2013, Berlin-Boylston, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.2
+2013, Blackstone-Millville, 0.0, 0.0, 0.0, 5.9, 0.0, 0.0, 1.8
+2013, Bridgewater-Raynham, 3.0, 4.8, 11.8, 2.4, 0.0, 0.0, 2.1
+2013, Central Berkshire, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.9
+2013, Concord-Carlisle, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Dennis-Yarmouth, 2.7, 0.0, 5.2, 0.0, 12.5, 0.0, 1.8
+2013, Dighton-Rehoboth, 0.0, 8.3, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Dover-Sherborn, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Dudley-Charlton Reg, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Nauset, 5.6, 0.0, 2.9, 0.0, 0.0, 0.0, 0.4
+2013, Freetown-Lakeville, 0.0, 0.0, 0.0, 6.7, 0.0, 0.0, 0.5
+2013, Frontier, 0.0, 0.0, 7.1, 0.0, 0.0, 0.0, 1.4
+2013, Gateway, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.3
+2013, Groton-Dunstable, 0.0, 2.7, 0.0, 0.0, 0.0, 0.0, 0.1
+2013, Gill-Montague, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Hamilton-Wenham, 11.1, 0.0, 0.0, 6.7, 0.0, 0.0, 0.8
+2013, Hampden-Wilbraham, 2.0, 0.0, 1.8, 5.3, 0.0, 0.0, 0.2
+2013, Hampshire, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, King Philip, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.8
+2013, Lincoln-Sudbury, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Manchester Essex Regional, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Martha\'s Vineyard, 13.6, 0.0, 1.9, 0.0, 0.0, 0.0, 0.7
+2013, Masconomet, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Mendon-Upton, 0.0, 0.0, 6.3, 0.0, 0.0, 0.0, 1.0
+2013, Monomoy Regional School District, 0.0, 0.0, 0.0, 7.1, 0.0, 0.0, 2.2
+2013, Mount Greylock, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Mohawk Trail, 0.0, 0.0, 6.7, 0.0, 0.0, 0.0, 2.2
+2013, Narragansett, 0.0, 0.0, 25.0, 0.0, 0.0, 0.0, 0.6
+2013, Nashoba, 0.0, 0.0, 9.4, 0.0, 0.0, 0.0, 0.5
+2013, Northboro-Southboro, 0.0, 0.0, 2.3, 0.0, 0.0, 0.0, 0.8
+2013, North Middlesex, 0.0, 0.0, 0.0, 12.5, 0.0, 0.0, 0.4
+2013, Old Rochester, 5.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+2013, Pentucket, 0.0, 0.0, 6.7, 9.1, 0.0, 0.0, 0.7
+2013, Pioneer Valley, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.4
+2013, Quabbin, 0.0, 0.0, 7.1, 4.2, 0.0, 0.0, 2.1
+2013, Ralph C Mahar, 0.0, 0.0, 7.7, 0.0, 0.0, 0.0, 3.9
+2013, Silver Lake, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Somerset Berkley Regional School District, 0.0, 0.0, 4.3, 0.0, 0.0, 0.0, 1.2
+2013, Southern Berkshire, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0
+2013, Southwick-Tolland-Granville Regional School District, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.8
+2013, Spencer-E Brookfield, 0.0, 0.0, 3.4, 6.3, 0.0, 0.0, 3.4
+2013, Tantasqua, 0.0, 0.0, 2.0, 0.0, 12.5, 0.0, 0.8
+2013, Triton, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 1.9
+2013, Wachusett, 2.2, 0.0, 1.4, 0.0, 0.0, 0.0, 0.9
+2013, Quaboag Regional, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6
+2013, Whitman-Hanson, 4.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+2013, Assabet Valley Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Blackstone Valley Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Blue Hills Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Bristol-Plymouth Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Cape Cod Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.9
+2013, Franklin County Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.6
+2013, Greater Fall River Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Greater Lawrence Regional Vocational Technical, 0.0, 0.0, 1.1, 0.0, 0.0, 0.0, 1.1
+2013, Greater New Bedford Regional Vocational Technical, 3.1, 0.0, 2.5, 2.7, 0.0, 0.0, 1.7
+2013, Greater Lowell Regional Vocational Technical, 0.0, 0.3, 0.5, 0.0, 0.0, 0.0, 0.3
+2013, South Middlesex Regional Vocational Technical, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.7
+2013, Minuteman Regional Vocational Technical, 0.0, 0.0, 5.7, 0.0, 0.0, 0.0, 0.9
+2013, Montachusett Regional Vocational Technical, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.4
+2013, Northern Berkshire Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.7
+2013, Nashoba Valley Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Northeast Metropolitan Regional Vocational Technical, 2.5, 0.0, 0.6, 0.0, 0.0, 0.0, 0.6
+2013, North Shore Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Old Colony Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Pathfinder Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2
+2013, Shawsheen Valley Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4
+2013, Southeastern Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, South Shore Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9
+2013, Southern Worcester County Regional Vocational Technical, 0.0, 0.0, 1.9, 0.0, 0.0, 0.0, 1.0
+2013, Tri County Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7
+2013, Upper Cape Cod Regional Vocational Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3
+2013, Whittier Regional Vocational Technical, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.2
+2013, Bristol County Agricultural, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5
+2013, Essex Agricultural Technical, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Norfolk County Agricultural, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2
+2013, Paulo Freire Social Justice Charter School (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, City on a Hill Charter Public School Dudley Square (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Pioneer Charter School of Science II (PCSS-II) (District), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+2013, Massachusetts Virtual Academy at Greenfield Commonwealth Virtual District, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.3
