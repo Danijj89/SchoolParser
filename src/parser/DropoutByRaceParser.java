@@ -10,6 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/*
 public class DropoutByRaceParser extends AbstractSchoolsParser {
 
   private static final String year = "2016";
@@ -68,3 +69,4 @@ public class DropoutByRaceParser extends AbstractSchoolsParser {
     }
   }
 }
+*/

@@ -1,7 +1,5 @@
 package parser;
 
-import java.util.List;
-
 /**
  * Represents a file parser interface.
  * Provides the functionality to save the file that has been parsed.
@@ -9,16 +7,16 @@ import java.util.List;
 public interface Parser {
 
   /**
-   * Parses a file into a list of individual values.
+   * Parses a file.
    *
    * @param fileName the path to the file to be parsed.
-   * @return a list of individual values.
    * @throws IllegalStateException if it is unable to parse.
    */
-  List<String> parse(String fileName) throws IllegalStateException;
+  void parse(String fileName) throws IllegalStateException;
 
   /**
    * Saves the parsed data to file.
+   * If the file is not parsed first, this methods saves an empty file.
    *
    * @param path the path of the file.
    */

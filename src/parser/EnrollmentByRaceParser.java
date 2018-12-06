@@ -16,6 +16,7 @@ import java.util.stream.Collectors;
  * NOTE:
  * It is necessary to set the year manually.
  */
+/*
 public class EnrollmentByRaceParser extends AbstractSchoolsParser {
 
   // The year of the enrollment data.
@@ -28,6 +29,7 @@ public class EnrollmentByRaceParser extends AbstractSchoolsParser {
    * @param ap the appendable to be append to.
    * @throws IllegalArgumentException if the appendable is null.
    */
+/*
   public EnrollmentByRaceParser(Appendable ap) throws IllegalArgumentException {
     super(ap);
   }
@@ -127,3 +129,4 @@ public class EnrollmentByRaceParser extends AbstractSchoolsParser {
     }
   }
 }
+*/

@@ -12,7 +12,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Function;
 import parser.AbstractSchoolsParser;
-import parser.DistrictLatLongParser;
+
+/*
 
 public class DistrictLatLong {
 
@@ -106,3 +107,5 @@ public class DistrictLatLong {
   }
 
 }
+
+*/

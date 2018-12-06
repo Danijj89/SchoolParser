@@ -9,24 +9,27 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-
 /**
  * Represents an implementation of a CSV for SQL parser.
  * It is used to parse MCAS scores for the schools database project.
  * NOTE:
  * Need to set the year manually.
  */
+
+/*
 public class MCASScoreParser extends AbstractSchoolsParser {
 
   // The year of the MCAS exam.
   private static final String year = "2017";
-
+*/
   /**
    * Constructs an instance of this mcas score parser.
    *
    * @param ap the appendable to append to.
    * @throws IllegalArgumentException if the given appendable is null.
    */
+
+  /*
   public MCASScoreParser(Appendable ap) throws IllegalArgumentException {
     super(ap);
   }
@@ -111,3 +114,4 @@ public class MCASScoreParser extends AbstractSchoolsParser {
     }
   }
 }
+*/

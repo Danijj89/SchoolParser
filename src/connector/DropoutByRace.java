@@ -12,7 +12,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Function;
 import parser.AbstractSchoolsParser;
-import parser.DropoutByRaceParser;
+
+/*
 
 public class DropoutByRace {
 
@@ -115,3 +116,5 @@ public class DropoutByRace {
   }
 
 }
+
+*/

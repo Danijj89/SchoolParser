@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cac6542-65be-4344-9809-ab8d0b79de80" name="Default Changelist" comment="" />
+    <list default="true" id="5cac6542-65be-4344-9809-ab8d0b79de80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/district_names.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropout2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropout2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropout2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropout2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enrollment2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enrollment2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enrollment2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enrollment2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcas2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcas2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcas2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcas2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcas2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/DistrictLatLong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/DistrictNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/DropoutByRace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/EnrollmentByRace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/MCASScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/connector/SchoolNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/parser/AbstractCSVForSQLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/parser/DistrictLatLongParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/parser/DistrictNameParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parser/parser/SchoolNameParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parsed_school_lat_long.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_district_names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_dropout2013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_dropout2014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_dropout2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_dropout2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_enrollment2013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_enrollment2014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_enrollment2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_enrollment2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_mcas2013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_mcas2014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_mcas2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_mcas2016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/parsed_mcas2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/result_school_names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_lat_long.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_lat_long.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_names.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/DistrictLatLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/DistrictLatLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/DistrictNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/DropoutByRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/DropoutByRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/EnrollmentByRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/EnrollmentByRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/MCASScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/MCASScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/SchoolNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connector/SchoolNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connector/SchoolsParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/SchoolsParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/DistrictLatLongParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/DistrictLatLongParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/DropoutByRaceParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/DropoutByRaceParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/EnrollmentByRaceParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/EnrollmentByRaceParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/MCASScoreParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/MCASScoreParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/MySQLCParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/MySQLCParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/projects/schools/SchoolNameParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/projects/schools/SchoolNameParser.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,23 +86,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="61" />
+          <entry key="java" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="20894" />
+          <entry key="java" value="23590" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20892" />
+          <entry key="JAVA" value="23588" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="SQL" value="2" />
         </counts>
@@ -50,86 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-705">
-              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/connector/SchoolsParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/parser/MySQLCParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/parser/projects/schools/SchoolNameParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/connector/DistrictNames.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/connector/SchoolNames.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="79" />
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,28 +154,30 @@
         <option value="$PROJECT_DIR$/src/parser/AbstractCSVParser.java" />
         <option value="$PROJECT_DIR$/src/connector/ConnectorJ.java" />
         <option value="$PROJECT_DIR$/src/connector/ConnectorJNoSelect.java" />
-        <option value="$PROJECT_DIR$/src/connector/DistrictNames.java" />
         <option value="$PROJECT_DIR$/src/connector/ConnectorJSelect.java" />
-        <option value="$PROJECT_DIR$/src/connector/SchoolNames.java" />
         <option value="$PROJECT_DIR$/src/parser/MCASScore.java" />
-        <option value="$PROJECT_DIR$/src/connector/MCASScore.java" />
         <option value="$PROJECT_DIR$/src/parser/EnrollmentDropoutByRaceParser.java" />
-        <option value="$PROJECT_DIR$/src/connector/DropoutByRace.java" />
+        <option value="$PROJECT_DIR$/src/parser/DistrictLatLong.java" />
+        <option value="$PROJECT_DIR$/src/parser/SchoolNameParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/AbstractCSVForSQLParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/DistrictNameParser.java" />
+        <option value="$PROJECT_DIR$/src/connector/SchoolsParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/parser/MySQLCParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java" />
+        <option value="$PROJECT_DIR$/src/parser/SchoolsParser.java" />
+        <option value="$PROJECT_DIR$/src/connector/SchoolNames.java" />
+        <option value="$PROJECT_DIR$/src/connector/DistrictNames.java" />
         <option value="$PROJECT_DIR$/src/parser/MCASScoreParser.java" />
         <option value="$PROJECT_DIR$/src/parser/EnrollmentByRaceParser.java" />
         <option value="$PROJECT_DIR$/src/parser/DropoutByRaceParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/DistrictLatLong.java" />
         <option value="$PROJECT_DIR$/src/parser/DistrictLatLongParser.java" />
-        <option value="$PROJECT_DIR$/src/connector/DistrictLatLong.java" />
-        <option value="$PROJECT_DIR$/src/parser/SchoolNameParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/MySQLCParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/connector/MCASScore.java" />
         <option value="$PROJECT_DIR$/src/connector/EnrollmentByRace.java" />
-        <option value="$PROJECT_DIR$/src/parser/AbstractCSVForSQLParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/DistrictNameParser.java" />
+        <option value="$PROJECT_DIR$/src/connector/DropoutByRace.java" />
+        <option value="$PROJECT_DIR$/src/connector/DistrictLatLong.java" />
         <option value="$PROJECT_DIR$/src/parser/projects/schools/SchoolNameParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java" />
-        <option value="$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java" />
       </list>
     </option>
   </component>
@@ -218,6 +206,30 @@
               <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="Parser" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="connector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="schools" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,7 +243,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544123397444" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544128904359" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -258,208 +270,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.School_lat_long">
-    <configuration name="DistrictLatLongParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parser.DistrictLatLongParser" />
+  <component name="RunManager">
+    <configuration name="District" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="parser.SchoolsParser" />
       <module name="Parser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parser.projects.schools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PROGRAM_PARAMETERS" value="-in FilesToParse/district_names.csv -out ParsedFiles/parsed_district_names_final.txt -parser district" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistrictNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="connector.DistrictNames" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in district_names.csv -out parsed_district_names.txt -parser district_name" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DropoutByRaceParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parser.DropoutByRaceParser" />
-      <module name="Parser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parser.projects.schools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnrollmentByRaceParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parser.EnrollmentByRaceParser" />
-      <module name="Parser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parser.projects.schools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchoolNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="connector.SchoolNames" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in school_names.csv -out result_school_names.txt -parser school_name" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parser.projects.schools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="School_lat_long" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.DistrictLatLong" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in school_lat_long.csv -out parsed_school_lat_long.txt -parser latlong" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dropout2013" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.DropoutByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in dropout2013.csv -out parsed_dropout2013.txt -parser dropout" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dropout2014" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.DropoutByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in dropout2014.csv -out parsed_dropout2014.txt -parser dropout" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dropout2015" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.DropoutByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in dropout2015.csv -out parsed_dropout2015.txt -parser dropout" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dropout2016" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.DropoutByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in dropout2016.csv -out parsed_dropout2016.txt -parser dropout" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="enrollment2013" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.EnrollmentByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in enrollment2013.csv -out parsed_enrollment2013.txt -parser enrollment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="enrollment2014" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.EnrollmentByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in enrollment2014.csv -out parsed_enrollment2014.txt -parser enrollment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="enrollment2015" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.EnrollmentByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in enrollment2015.csv -out parsed_enrollment2015.txt -parser enrollment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="enrollment2016" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.EnrollmentByRace" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in enrollment2016.csv -out parsed_enrollment2016.txt -parser enrollment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mcas2013" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.MCASScore" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in mcas2013.csv -out parsed_mcas2013.txt -parser mcas_score" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mcas2014" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.MCASScore" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in mcas2014.csv -out parsed_mcas2014.txt -parser mcas_score" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mcas2015" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.MCASScore" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in mcas2015.csv -out parsed_mcas2015.txt -parser mcas_score" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mcas2016" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.MCASScore" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in mcas2016.csv -out parsed_mcas2016.txt -parser mcas_score" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mcas2017" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="connector.MCASScore" />
-      <module name="Parser" />
-      <option name="PROGRAM_PARAMETERS" value="-in mcas2017.csv -out parsed_mcas2017.txt -parser mcas_score" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.School_lat_long" />
-      <item itemvalue="Application.dropout2013" />
-      <item itemvalue="Application.enrollment2016" />
-      <item itemvalue="Application.mcas2016" />
-      <item itemvalue="Application.mcas2015" />
-      <item itemvalue="Application.mcas2013" />
-      <item itemvalue="Application.mcas2014" />
-      <item itemvalue="Application.mcas2017" />
-      <item itemvalue="Application.enrollment2013" />
-      <item itemvalue="Application.enrollment2014" />
-      <item itemvalue="Application.enrollment2015" />
-      <item itemvalue="Application.dropout2014" />
-      <item itemvalue="Application.dropout2015" />
-      <item itemvalue="Application.dropout2016" />
-      <item itemvalue="Application.DistrictNames" />
-      <item itemvalue="Application.SchoolNames" />
-      <item itemvalue="Application.EnrollmentByRaceParser" />
-      <item itemvalue="Application.DropoutByRaceParser" />
-      <item itemvalue="Application.DistrictLatLongParser" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DistrictLatLongParser" />
-        <item itemvalue="Application.SchoolNames" />
-        <item itemvalue="Application.DistrictNames" />
-        <item itemvalue="Application.DropoutByRaceParser" />
-        <item itemvalue="Application.EnrollmentByRaceParser" />
+        <item itemvalue="Application.District" />
       </list>
     </recent_temporary>
   </component>
@@ -481,15 +303,16 @@
       <workItem from="1543809087698" duration="232000" />
       <workItem from="1543872738329" duration="1000" />
       <workItem from="1544039382739" duration="5035000" />
-      <workItem from="1544119188641" duration="3403000" />
+      <workItem from="1544119188641" duration="8594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56261000" />
+    <option name="totallyTimeSpent" value="61452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -499,8 +322,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,80 +351,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/parser/EnrollmentByRaceParser.java">
+    <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="270">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/MySQLCParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/DropoutByRaceParser.java">
+    <entry file="file://$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/DropoutByRace.java">
+    <entry file="file://$PROJECT_DIR$/src/parser/SchoolsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="84" column="49" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/MCASScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/MCASScoreParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/DistrictLatLongParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="58" column="58" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/DistrictLatLong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/EnrollmentByRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="65" column="19" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="19" />
+        <state relative-caret-position="495">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -610,8 +394,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/connector/SchoolNames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="79" />
+        <state relative-caret-position="1590">
+          <caret line="106" column="2" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/EnrollmentByRaceParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/DropoutByRaceParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/DistrictLatLongParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connector/MCASScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connector/EnrollmentByRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connector/DropoutByRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="119" column="2" selection-start-line="119" selection-start-column="2" selection-end-line="119" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connector/DistrictLatLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="110" column="2" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parser/MCASScoreParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -620,59 +484,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/connector/DistrictNames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="2" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/projects/schools/DistrictNameParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/MySQLCParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/AbstractSchoolsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705">
-          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/SchoolsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/parser/projects/schools/SchoolNameParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

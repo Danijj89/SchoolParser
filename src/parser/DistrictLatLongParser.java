@@ -10,6 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/*
 public class DistrictLatLongParser extends AbstractSchoolsParser {
 
   public DistrictLatLongParser(Appendable ap) {
@@ -64,3 +65,4 @@ public class DistrictLatLongParser extends AbstractSchoolsParser {
     }
   }
 }
+*/

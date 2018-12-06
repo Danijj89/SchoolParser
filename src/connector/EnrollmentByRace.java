@@ -12,8 +12,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Function;
 import parser.AbstractSchoolsParser;
-import parser.EnrollmentByRaceParser;
 
+/*
 public class EnrollmentByRace {
 
   public static void main(String[] args) {
@@ -113,3 +113,4 @@ public class EnrollmentByRace {
   }
 
 }
+*/

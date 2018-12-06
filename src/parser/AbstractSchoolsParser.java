@@ -2,7 +2,6 @@ package parser;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -10,19 +9,17 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Arrays;
-import java.util.Iterator;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Represents an abstract class for a {@link MySQLCParser} implementation used to parse
  * data for the schools database project.
- * Uses a {@link FileWriter} to save the result of the parsing.
  * Uses a {@link BufferedReader} to read from a text file.
  */
 public abstract class AbstractSchoolsParser implements MySQLCParser {
-  protected FileWriter fw;
   protected BufferedReader reader;
+  protected final List<String> parsedResult;
   protected Connection connection = null;
   protected Statement statement = null;
   protected PreparedStatement preparedStatement = null;
@@ -33,24 +30,17 @@ public abstract class AbstractSchoolsParser implements MySQLCParser {
    * Initializes the reader to be temporarily {@code null}.
    */
   public AbstractSchoolsParser() throws IllegalArgumentException {
-    this.fw = null;
     this.reader = null;
+    this.parsedResult = new ArrayList<>();
   }
 
   @Override
-  public void save(String path) {
-    try {
-      this.fw = new FileWriter(path);
-      fw.flush();
-    } catch (IOException e) {
-      throw new IllegalStateException("Unable to append to this Appendable");
-    }
-  }
+  public abstract void save(String path);
 
   @Override
-  public List<String> parse(String fileName) throws IllegalStateException {
+  public void parse(String fileName) throws IllegalStateException {
     this.setFileReader(fileName);
-    return this.helpParse();
+    this.helpParse();
   }
 
   /**
@@ -69,16 +59,11 @@ public abstract class AbstractSchoolsParser implements MySQLCParser {
 
   /**
    * Helper method that parses a file into a list of individual values.
-   *
-   * @return the list of individual values.
    */
-  protected abstract List<String> helpParse();
+  protected abstract void helpParse();
 
   @Override
-  public abstract List<String> preparedStatement();
-
-  @Override
-  public abstract List<Integer> numVariableToSet();
+  public abstract void updateDB(String driver, String connectionPath);
 
   /**
    * Setup connection with the database.

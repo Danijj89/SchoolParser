@@ -20,7 +20,6 @@ public class SchoolNameParser extends AbstractSchoolsParser {
   public SchoolNameParser(Appendable ap) throws IllegalArgumentException {
     super(ap);
   }
-
   /**
    * Parses the school names for the schools database project.
    * This parser eliminates the school name that are repeated and the rows that contain the voice
@@ -30,6 +29,7 @@ public class SchoolNameParser extends AbstractSchoolsParser {
    * @return the list of school names.
    * @throws IllegalStateException if the input or output has problems.
    */
+
   @Override
   protected List<String> helpParse() {
     List<String> result = new ArrayList<>();
@@ -60,28 +60,5 @@ public class SchoolNameParser extends AbstractSchoolsParser {
     }
     return result;
   }
-
-  /**
-   * Gets the list of statements that are used to  to populate the database.
-   * Statements by index:
-   * (0) finds the districtid by matching a given district name.
-   * (1) inserts school names, district id and school type into the school table.
-   *
-   * @return the list of statements.
-   */
-  @Override
-  public List<String> preparedStatement() {
-    List<String> result = new ArrayList<>();
-    result.add("SELECT * FROM district WHERE district_name = ?");
-    result.add("INSERT INTO school(district_id, school_name, school_type) VALUES (?,?,?)");
-    return result;
-  }
-
-  @Override
-  public List<Integer> numVariableToSet() {
-    List<Integer> result = new ArrayList<>();
-    result.add(1);
-    result.add(3);
-    return result;
-  }
 }
+

@@ -1,8 +1,10 @@
 package parser.projects.schools;
 
+import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
+import java.io.Writer;
+import java.sql.SQLException;
+import java.util.Iterator;
 import parser.AbstractSchoolsParser;
 import parser.MySQLCParser;
 
@@ -24,8 +26,7 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
    * @throws IllegalStateException if the inputs or output has problems.
    */
   @Override
-  protected List<String> helpParse() {
-    List<String> result = new ArrayList<>();
+  protected void helpParse() {
     String line;
     String prevName = "";
     try {
@@ -33,8 +34,7 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
       while (line != null) {
         String[] values = line.split(",");
         if (!values[0].equals(prevName) && Integer.valueOf(values[1]) > 0) {
-          result.add(values[0]);
-          this.fw.append(values[0] + "\n");
+          this.parsedResult.add(values[0]);
           prevName = values[0];
         }
         line = this.reader.readLine();
@@ -42,26 +42,40 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
     } catch (IOException e) {
       throw new IllegalStateException("I/O error");
     }
-    return result;
   }
 
   /**
-   * Gets the list of statements that are used to  to populate the database.
-   * Statements by index:
-   * (0) Inserts the district names.
-   * @return the list of statements
+   * Saves the each district name into a new row.
+   *
+   * @param path the file path to save the file to.
    */
   @Override
-  public List<String> preparedStatement() {
-    List<String> result = new ArrayList<>();
-    result.add("INSERT INTO district(district_name) VALUES (?)");
-    return result;
+  public void save(String path) {
+    try {
+      Writer fw = new FileWriter(path);
+      for (String s : this.parsedResult) {
+        fw.write(s + "\n");
+      }
+      fw.flush();
+    } catch (IOException e) {
+      throw new IllegalStateException("Unable to append to this Appendable");
+    }
   }
 
   @Override
-  public List<Integer> numVariableToSet() {
-    List<Integer> result = new ArrayList<>();
-    result.add(1);
-    return result;
+  public void updateDB(String driver, String connectionPath) {
+    this.connect(driver, connectionPath);
+    Iterator<String> iter = this.parsedResult.iterator();
+    try {
+      this.preparedStatement =
+          this.connection.prepareStatement("INSERT INTO district(district_name) VALUES (?)");
+      while (iter.hasNext()) {
+        this.preparedStatement.setString(1, iter.next());
+        preparedStatement.executeUpdate();
+      }
+    } catch (SQLException e) {
+      throw new IllegalStateException(e.getMessage());
+    }
+    this.closeConnection();
   }
 }

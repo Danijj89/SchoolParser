@@ -12,8 +12,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Function;
 import parser.AbstractSchoolsParser;
-import parser.SchoolNameParser;
-
+/*
 public class SchoolNames {
   public static void main(String[] args) {
     HashMap<String, Function<Appendable, AbstractSchoolsParser>> parsers = new HashMap<>();
@@ -105,3 +104,4 @@ public class SchoolNames {
     }
   }
 }
+*/
