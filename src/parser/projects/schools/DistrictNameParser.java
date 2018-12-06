@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.Writer;
 import java.sql.SQLException;
 import java.util.Iterator;
-import parser.AbstractSchoolsParser;
 import parser.MySQLCParser;
 
 /**
@@ -26,7 +25,7 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
    * @throws IllegalStateException if the inputs or output has problems.
    */
   @Override
-  protected void helpParse() {
+  protected void helpParse() throws IllegalStateException {
     String line;
     String prevName = "";
     try {
@@ -45,12 +44,13 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
   }
 
   /**
-   * Saves the each district name into a new row.
+   * Saves each district name into a new row.
    *
    * @param path the file path to save the file to.
+   * @throws IllegalStateException if it is unable to write the file.
    */
   @Override
-  public void save(String path) {
+  public void save(String path) throws IllegalStateException {
     try {
       Writer fw = new FileWriter(path);
       for (String s : this.parsedResult) {
@@ -58,12 +58,13 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
       }
       fw.flush();
     } catch (IOException e) {
-      throw new IllegalStateException("Unable to append to this Appendable");
+      throw new IllegalStateException("Unable to write to file");
     }
   }
 
+
   @Override
-  public void updateDB(String driver, String connectionPath) {
+  public void updateDB(String driver, String connectionPath) throws IllegalStateException {
     this.connect(driver, connectionPath);
     Iterator<String> iter = this.parsedResult.iterator();
     try {

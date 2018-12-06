@@ -1,4 +1,4 @@
-package parser;
+package parser.projects.schools;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,6 +11,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+import parser.MySQLCParser;
 
 /**
  * Represents an abstract class for a {@link MySQLCParser} implementation used to parse
@@ -70,8 +71,9 @@ public abstract class AbstractSchoolsParser implements MySQLCParser {
    *
    * @param driver the driver used to connect.
    * @param connectionPath the connection path to the database.
+   * @throws IllegalStateException if it is unable to connect.
    */
-  protected void connect(String driver, String connectionPath) {
+  protected void connect(String driver, String connectionPath) throws IllegalStateException {
     try {
       // Setup the driver
       Class.forName(driver).newInstance();
@@ -89,8 +91,10 @@ public abstract class AbstractSchoolsParser implements MySQLCParser {
 
   /**
    * Closes all parts of the connection if they are open.
+   *
+   * @throws IllegalStateException should not happen.
    */
-  protected void closeConnection() {
+  protected void closeConnection() throws IllegalStateException {
     try {
       if (this.resultSet != null) {
         this.resultSet.close();

@@ -1,4 +1,4 @@
-package parser;
+package parser.projects.schools;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -15,13 +15,11 @@ import java.util.stream.Collectors;
  * NOTE:
  * Need to set the year manually.
  */
-
-/*
 public class MCASScoreParser extends AbstractSchoolsParser {
 
   // The year of the MCAS exam.
   private static final String year = "2017";
-*/
+
   /**
    * Constructs an instance of this mcas score parser.
    *
@@ -29,7 +27,7 @@ public class MCASScoreParser extends AbstractSchoolsParser {
    * @throws IllegalArgumentException if the given appendable is null.
    */
 
-  /*
+
   public MCASScoreParser(Appendable ap) throws IllegalArgumentException {
     super(ap);
   }
@@ -114,4 +112,3 @@ public class MCASScoreParser extends AbstractSchoolsParser {
     }
   }
 }
-*/

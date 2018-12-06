@@ -1,7 +1,5 @@
 package parser;
 
-import java.util.List;
-
 /**
  * Represents an interface that extends the functionality of a parser to update a Database.
  */
