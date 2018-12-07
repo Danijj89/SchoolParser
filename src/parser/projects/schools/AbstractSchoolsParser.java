@@ -2,7 +2,9 @@ package parser.projects.schools;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.Writer;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -10,7 +12,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
+import java.util.stream.Collectors;
 import parser.MySQLCParser;
 
 /**
@@ -36,7 +40,32 @@ public abstract class AbstractSchoolsParser implements MySQLCParser {
   }
 
   @Override
-  public abstract void save(String path);
+  public void save(String path) {
+    try {
+      Writer fw = new FileWriter(path);
+      Iterator<String> iter = this.parsedResult.iterator();
+      int numValuesForRow = this.numRowValues();
+      while (iter.hasNext()) {
+        List<String> tempResult = new ArrayList<>();
+        for (int i = 0; i < numValuesForRow; i += 1) {
+          tempResult.add(iter.next());
+        }
+        fw.write(tempResult.stream().collect(Collectors.joining(", ")) + "\n");
+      }
+      fw.flush();
+    } catch (IOException e) {
+      throw new IllegalStateException ("Unable to write to file");
+    } catch (IndexOutOfBoundsException e) {
+      throw new IllegalArgumentException("Parsed file has incorrect row lengths");
+    }
+  }
+
+  /**
+   * Retuns the number of values for each row after the file has been parsed.
+   *
+   * @return the number of values for each row.
+   */
+  protected abstract int numRowValues();
 
   @Override
   public void parse(String fileName) throws IllegalStateException {

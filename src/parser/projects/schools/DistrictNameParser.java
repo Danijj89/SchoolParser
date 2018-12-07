@@ -14,7 +14,6 @@ import parser.MySQLCParser;
 public final class DistrictNameParser extends AbstractSchoolsParser {
 
   /**
-   * Parses the district name CSV file and appends it to the Appendable.
    * Each row is represented by the name of a district separated by an int value representing
    * if the school is a high school or not. Any number > 0 is a high school.
    * Eliminates multiple occurrences of the same name and ignores those with 0
@@ -43,25 +42,10 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
     }
   }
 
-  /**
-   * Saves each district name into a new row.
-   *
-   * @param path the file path to save the file to.
-   * @throws IllegalStateException if it is unable to write the file.
-   */
   @Override
-  public void save(String path) throws IllegalStateException {
-    try {
-      Writer fw = new FileWriter(path);
-      for (String s : this.parsedResult) {
-        fw.write(s + "\n");
-      }
-      fw.flush();
-    } catch (IOException e) {
-      throw new IllegalStateException("Unable to write to file");
-    }
+  protected int numRowValues() {
+    return 1;
   }
-
 
   @Override
   public void updateDB(String driver, String connectionPath) throws IllegalStateException {

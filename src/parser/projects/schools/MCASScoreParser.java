@@ -95,23 +95,8 @@ public class MCASScoreParser extends AbstractSchoolsParser {
   }
 
   @Override
-  public void save(String path) throws IllegalArgumentException, IllegalStateException {
-    try {
-      Writer fw = new FileWriter(path);
-      Iterator<String> iter = this.parsedResult.iterator();
-      while (iter.hasNext()) {
-        List<String> tempResult = new ArrayList<>();
-        for (int i = 0; i < 7; i += 1) {
-          tempResult.add(iter.next());
-        }
-        fw.write(tempResult.stream().collect(Collectors.joining(", ")) + "\n");
-      }
-      fw.flush();
-    } catch (IOException e) {
-      throw new IllegalStateException ("Unable to write to file");
-    } catch (IndexOutOfBoundsException e) {
-      throw new IllegalArgumentException("Parsed file has incorrect row lengths");
-    }
+  protected int numRowValues() {
+    return 7;
   }
 
   @Override

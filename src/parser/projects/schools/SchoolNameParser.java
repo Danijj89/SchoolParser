@@ -46,26 +46,9 @@ public class SchoolNameParser extends AbstractSchoolsParser {
     }
   }
 
-  /**
-   * Saves each school name with its district name and school type into a new row.
-   *
-   * @param path the file path to save the file to.
-   * @throws IllegalStateException if it is unable to write the file.
-   */
   @Override
-  public void save(String path) throws IllegalStateException {
-    try {
-      Writer fw = new FileWriter(path);
-      String[] data = this.parsedResult.toArray(new String[this.parsedResult.size()]);
-      for (int i = 0; i < data.length; i += 3) {
-        fw.write(data[i] + ", ");
-        fw.write(data[i + 1]);
-        fw.write(", " + data[i + 2] + "\n");
-      }
-      fw.flush();
-    } catch (IOException e) {
-      throw new IllegalStateException("Unable to write to file");
-    }
+  protected int numRowValues() {
+    return 3;
   }
 
   @Override

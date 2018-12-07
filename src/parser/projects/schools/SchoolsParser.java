@@ -1,10 +1,8 @@
-package parser;
+package parser.projects.schools;
 
 import java.util.HashMap;
 import java.util.Map;
-import parser.projects.schools.DistrictNameParser;
-import parser.projects.schools.MCASScoreParser;
-import parser.projects.schools.SchoolNameParser;
+import parser.MySQLCParser;
 
 public class SchoolsParser {
 
@@ -13,6 +11,9 @@ public class SchoolsParser {
     parsers.put("district_name", new DistrictNameParser());
     parsers.put("school_name", new SchoolNameParser());
     parsers.put("mcas_score2013", new MCASScoreParser(2013));
+    parsers.put("lat_long", new SchoolLatLongParser());
+    parsers.put("enrollment2013", new EnrollmentByRaceParser(2013));
+
     Map<String, String> arguments = new HashMap<>();
     if (Math.floorMod(args.length, 2) != 0) {
       throw new IllegalArgumentException("Ill formed command");
