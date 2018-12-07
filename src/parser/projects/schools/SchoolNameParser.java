@@ -76,13 +76,13 @@ public class SchoolNameParser extends AbstractSchoolsParser {
       this.preparedStatement = this.connection.prepareStatement(
           "INSERT INTO school(district_id, school_name, school_type) VALUES (?,?,?)");
       while (iter.hasNext()) {
-        resultSet = statement.executeQuery(
+        this.resultSet = this.statement.executeQuery(
             "SELECT * FROM district WHERE district_name = '" + iter.next() + "'");
         if (resultSet.next()) {
-          preparedStatement.setString(1, resultSet.getString("district_id"));
-          preparedStatement.setString(2, iter.next());
-          preparedStatement.setString(3, iter.next());
-          preparedStatement.executeUpdate();
+          this.preparedStatement.setString(1, this.resultSet.getString("district_id"));
+          this.preparedStatement.setString(2, iter.next());
+          this.preparedStatement.setString(3, iter.next());
+          this.preparedStatement.executeUpdate();
         }
       }
     } catch (SQLException e) {

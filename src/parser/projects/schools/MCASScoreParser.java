@@ -1,46 +1,46 @@
 package parser.projects.schools;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.Writer;
+import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Collectors;
+
 /**
- * Represents an implementation of a CSV for SQL parser.
- * It is used to parse MCAS scores for the schools database project.
+ * Represents an implementation of {@link AbstractSchoolsParser} used to parse MCAS scores
+ * for the schools database project.
  * NOTE:
  * Need to set the year manually.
  */
 public class MCASScoreParser extends AbstractSchoolsParser {
 
   // The year of the MCAS exam.
-  private static final String year = "2017";
+  private final int year;
 
   /**
-   * Constructs an instance of this mcas score parser.
+   * Constructs an instance of this parser with an exam year.
    *
-   * @param ap the appendable to append to.
-   * @throws IllegalArgumentException if the given appendable is null.
+   * @param year the exam year.
    */
-
-
-  public MCASScoreParser(Appendable ap) throws IllegalArgumentException {
-    super(ap);
+  public MCASScoreParser(int year) {
+    super();
+    this.year = year;
   }
 
+  /**
+   * Parses the MCAS score data for the schools database project.
+   * Each row in the result contain:
+   * SchoolName, Exam Year, N. Advanced, N. Proficient, N. Need Improvement, N. Fail, SGP
+   * This parses adds the row where the school names are the same and take average of SGP score.
+   *
+   * @throws IllegalArgumentException if the file does not contain 3 column per school.
+   * @throws IllegalStateException if the input or output has problems.
+   */
   @Override
-  public List<String> parse(String fileName) throws IllegalStateException {
-    List<String> result = new ArrayList<>();
-    BufferedReader reader;
-    try {
-      reader = new BufferedReader(new FileReader(fileName));
-    } catch (FileNotFoundException e) {
-      throw new IllegalStateException("File " + fileName + " not found");
-    }
+  protected void helpParse() throws IllegalArgumentException, IllegalStateException {
     String line;
     // array of scores : [advanced, proficient, NI, fail]
     int[] scores = new int[4];
@@ -51,30 +51,33 @@ public class MCASScoreParser extends AbstractSchoolsParser {
       line = reader.readLine();
       while (line != null) {
         String[] values = line.split(",");
+        // Separate district name with school name
         String[] name = values[0].split(" - ");
         values[0] = name[1].trim();
+
+        // Every 3 rows add the cumulative result
         if (counter == 3) {
-          result.add(values[0]);
-          result.add(year);
-          result.add(Integer.toString(scores[0]));
-          result.add(Integer.toString(scores[1]));
-          result.add(Integer.toString(scores[2]));
-          result.add(Integer.toString(scores[3]));
+          this.parsedResult.add(values[0]);
+          this.parsedResult.add(Integer.toString(this.year));
+          this.parsedResult.add(Integer.toString(scores[0]));
+          this.parsedResult.add(Integer.toString(scores[1]));
+          this.parsedResult.add(Integer.toString(scores[2]));
+          this.parsedResult.add(Integer.toString(scores[3]));
           double sgp = Math.round((tempSGP / numSGP) * 100.0) / 100.0;
-          result.add(Double.toString(sgp));
-          this.ap.append(values[0] + ", " + year + ", " + Arrays.stream(scores).boxed()
-              .map((n) -> Integer.toString(n)).collect(Collectors.joining(", "))
-              + ", " + sgp + "\n");
+          this.parsedResult.add(Double.toString(sgp));
+
+          // Reset accumulators
           tempSGP = 0;
           numSGP = 0;
           scores = new int[4];
           counter = 0;
         }
+
         scores[0] += Integer.valueOf(values[1]);
         scores[1] += Integer.valueOf(values[2]);
         scores[2] += Integer.valueOf(values[3]);
         scores[3] += Integer.valueOf(values[4]);
-        System.out.println(values[0]);
+
         if (!values[5].contains("N/A") && !values[5].equals(" ") && !values[5].equals("")) {
           tempSGP += Double.valueOf(values[5]);
           numSGP += 1;
@@ -82,33 +85,56 @@ public class MCASScoreParser extends AbstractSchoolsParser {
         counter += 1;
         line = reader.readLine();
       }
+      // Check that every school had exactly 3 columns
       if (!(counter == 3)) {
         throw new IllegalArgumentException("the counter should have been 3");
       }
     } catch (IOException e) {
       throw new IllegalStateException("I/O error");
     }
-    return result;
   }
 
   @Override
-  public String preparedStatement() {
-    return "INSERT INTO mcas_score VALUES (?,?,?,?,?,?,?)";
-  }
-
-  @Override
-  public int numVariableToSet() {
-    return 7;
-  }
-
-  public static void main(String[] args) {
+  public void save(String path) throws IllegalArgumentException, IllegalStateException {
     try {
-      FileWriter f = new FileWriter("parsed_mcas2017.txt");
-      MCASScoreParser p = new MCASScoreParser(f);
-      p.parse("mcas2017.csv");
-      f.flush();
+      Writer fw = new FileWriter(path);
+      Iterator<String> iter = this.parsedResult.iterator();
+      while (iter.hasNext()) {
+        List<String> tempResult = new ArrayList<>();
+        for (int i = 0; i < 7; i += 1) {
+          tempResult.add(iter.next());
+        }
+        fw.write(tempResult.stream().collect(Collectors.joining(", ")) + "\n");
+      }
+      fw.flush();
     } catch (IOException e) {
-      throw new IllegalArgumentException(e.getMessage());
+      throw new IllegalStateException ("Unable to write to file");
+    } catch (IndexOutOfBoundsException e) {
+      throw new IllegalArgumentException("Parsed file has incorrect row lengths");
     }
+  }
+
+  @Override
+  public void updateDB(String driver, String connectionPath) {
+    this.connect(driver, connectionPath);
+    Iterator<String> iter = this.parsedResult.iterator();
+    try {
+      this.preparedStatement = this.connection.prepareStatement(
+          "INSERT INTO mcas_score VALUES (?,?,?,?,?,?,?)");
+      while (iter.hasNext()) {
+        this.resultSet = statement.executeQuery(
+            "SELECT * FROM school WHERE school_name = '" + iter.next() + "'");
+        if (this.resultSet.next()) {
+          this.preparedStatement.setString(1, this.resultSet.getString("school_id"));
+          for (int i = 2; i < 8; i ++) {
+            this.preparedStatement.setString(i, iter.next());
+          }
+          this.preparedStatement.executeUpdate();
+        }
+      }
+    } catch (SQLException e) {
+      throw new IllegalStateException(e.getMessage());
+    }
+    this.closeConnection();
   }
 }

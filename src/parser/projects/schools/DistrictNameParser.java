@@ -72,7 +72,7 @@ public final class DistrictNameParser extends AbstractSchoolsParser {
           this.connection.prepareStatement("INSERT INTO district(district_name) VALUES (?)");
       while (iter.hasNext()) {
         this.preparedStatement.setString(1, iter.next());
-        preparedStatement.executeUpdate();
+        this.preparedStatement.executeUpdate();
       }
     } catch (SQLException e) {
       throw new IllegalStateException(e.getMessage());
