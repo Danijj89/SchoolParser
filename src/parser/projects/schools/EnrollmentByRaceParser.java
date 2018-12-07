@@ -39,7 +39,7 @@ public class EnrollmentByRaceParser extends AbstractSchoolsParser {
     try {
       int[] numEnrollment = new int[7];
       int counter = 0;
-      line = reader.readLine();
+      line = this.reader.readLine();
       String prevName = "";
       int grade;
       while (line != null) {
@@ -87,7 +87,7 @@ public class EnrollmentByRaceParser extends AbstractSchoolsParser {
             }
           }
         }
-        line = reader.readLine();
+        line = this.reader.readLine();
       }
       if (!(counter == 4)) {
         throw new IllegalArgumentException("the counter should have been 4");
@@ -113,17 +113,16 @@ public class EnrollmentByRaceParser extends AbstractSchoolsParser {
       while (iter.hasNext()) {
         String schoolName = iter.next();
         String year = iter.next();
-        this.resultSet = statement.executeQuery(
+        this.resultSet = this.statement.executeQuery(
             "SELECT * FROM school WHERE school_name = '" + schoolName + "'");
         if (this.resultSet.next()) {
-
-          this.preparedStatement.setString(1, this.resultSet.getString("school_id"));
+          String school_id = this.resultSet.getString("school_id");
           for (int i = 0; i < 7; i ++) {
-            preparedStatement.setString(1, resultSet.getString("school_id"));
-            preparedStatement.setString(2, Integer.toString(i + 1));
-            preparedStatement.setString(3, year);
-            preparedStatement.setString(4, iter.next());
-            preparedStatement.executeUpdate();
+            this.preparedStatement.setString(1, school_id);
+            this.preparedStatement.setString(2, Integer.toString(i + 1));
+            this.preparedStatement.setString(3, year);
+            this.preparedStatement.setString(4, iter.next());
+            this.preparedStatement.executeUpdate();
           }
         }
       }

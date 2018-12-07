@@ -2,6 +2,7 @@ package parser.projects.schools;
 
 import java.util.HashMap;
 import java.util.Map;
+import parser.DropoutByRaceParser;
 import parser.MySQLCParser;
 
 public class SchoolsParser {
@@ -13,6 +14,7 @@ public class SchoolsParser {
     parsers.put("mcas_score2013", new MCASScoreParser(2013));
     parsers.put("lat_long", new SchoolLatLongParser());
     parsers.put("enrollment2013", new EnrollmentByRaceParser(2013));
+    parsers.put("dropout2013", new DropoutByRaceParser(2013));
 
     Map<String, String> arguments = new HashMap<>();
     if (Math.floorMod(args.length, 2) != 0) {

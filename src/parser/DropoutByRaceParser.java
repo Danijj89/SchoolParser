@@ -5,68 +5,95 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Collectors;
+import parser.projects.schools.AbstractSchoolsParser;
 
-/*
+/**
+ * Represents and implementation of {@link AbstractSchoolsParser} used to parse the number of
+ * dropout students for the schools database project.
+ */
 public class DropoutByRaceParser extends AbstractSchoolsParser {
+  // The year of the dropout data.
+  // The year means the fall semester of the year, i.e. 2013 is the academic year 2013-2014.
+  private final int year;
 
-  private static final String year = "2016";
-
-  public DropoutByRaceParser(Appendable ap) throws IllegalArgumentException {
-    super(ap);
+  /**
+   * Create an instance of this dropout parser with the specific academic year of the data.
+   *
+   * @param year year of the dropout data.
+   */
+  public DropoutByRaceParser(int year) {
+    super();
+    this.year = year;
   }
 
+  /**
+   * Parses the number of dropout students for each district.
+   * Each row in the result contain:
+   * Year, DistrictName, N. Afr. American, N. Asian, N. Hispanic, N. Multi, N. Nat. American,
+   * N. Nat. Hawaiian, N. White
+   */
   @Override
-  public List<String> parse(String fileName) throws IllegalStateException {
-    List<String> result = new ArrayList<>();
-    BufferedReader reader;
-    try {
-      reader = new BufferedReader(new FileReader(fileName));
-    } catch (FileNotFoundException e) {
-      throw new IllegalStateException("File " + fileName + " not found");
-    }
+  protected void helpParse() {
     String line;
     try {
-      line = reader.readLine();
+      line = this.reader.readLine();
       while (line != null) {
         String[] values = line.split(",");
-        result.add(year);
+        this.parsedResult.add(Integer.toString(this.year));
         for (int i = 0; i < 8; i ++) {
-          result.add(values[i]);
+          this.parsedResult.add(values[i]);
         }
-        this.ap.append(year + ", "
-            + Arrays.asList(values).stream().collect(Collectors.joining(", ")) + "\n");
-        line = reader.readLine();
+        line = this.reader.readLine();
       }
     } catch (IOException e) {
       throw new IllegalStateException("I/O error");
     }
-    return result;
   }
 
   @Override
-  public String preparedStatement() {
-    return "UPDATE enrollment_dropout_by_race SET num_dropout = (num_enrollment * ? / 100) "
-        + "WHERE school_id = ? and race_id = ? and year = ?";
+  protected int numRowValues() {
+    return 9;
   }
 
   @Override
-  public int numVariableToSet() {
-    return 4;
-  }
-
-  public static void main(String[] args) {
+  public void updateDB(String driver, String connectionPath) {
+    this.connect(driver, connectionPath);
+    Iterator<String> iter = this.parsedResult.iterator();
     try {
-      FileWriter f = new FileWriter("parsed_dropout2016.txt");
-      DropoutByRaceParser p = new DropoutByRaceParser(f);
-      p.parse("dropout2016.csv");
-      f.flush();
-    } catch (IOException e) {
-      throw new IllegalArgumentException(e.getMessage());
+      this.preparedStatement = this.connection.prepareStatement(
+          "UPDATE enrollment_dropout_by_race SET num_dropout = (num_enrollment * ? / 100) "
+              + "WHERE school_id = ? and race_id = ? and year = ?");
+      while (iter.hasNext()) {
+        String year = iter.next();
+        String districtName = iter.next();
+        System.out.println(districtName);
+        String[] dropoutRates = new String[7];
+        for (int i = 0; i < 7; i ++) {
+          dropoutRates[i] = iter.next();
+        }
+        this.resultSet = statement.executeQuery(
+            "SELECT * FROM school JOIN district USING (district_id) "
+                + "WHERE district_name = '" + districtName + "'");
+        if (this.resultSet.next()) {
+          String schoolId = this.resultSet.getString("school_id");
+          for (int race = 0; race < 7; race ++) {
+            this.preparedStatement.setString(1, dropoutRates[race]);
+            this.preparedStatement.setString(2, schoolId);
+            this.preparedStatement.setString(3, Integer.toString(race + 1));
+            this.preparedStatement.setString(4, year);
+            this.preparedStatement.executeUpdate();
+          }
+        }
+      }
+    } catch (SQLException e) {
+      throw new IllegalStateException(e.getMessage());
     }
+    this.closeConnection();
   }
 }
-*/
