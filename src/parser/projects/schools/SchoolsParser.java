@@ -2,7 +2,6 @@ package parser.projects.schools;
 
 import java.util.HashMap;
 import java.util.Map;
-import parser.DropoutByRaceParser;
 import parser.MySQLCParser;
 
 public class SchoolsParser {

@@ -1,10 +1,8 @@
-package parser;
-
+package parser.projects.schools;
 
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.Iterator;
-import parser.projects.schools.AbstractSchoolsParser;
 
 /**
  * Represents and implementation of {@link AbstractSchoolsParser} used to parse the number of
@@ -65,7 +63,6 @@ public class DropoutByRaceParser extends AbstractSchoolsParser {
       while (iter.hasNext()) {
         String year = iter.next();
         String districtName = iter.next();
-        System.out.println(districtName);
         String[] dropoutRates = new String[7];
         for (int i = 0; i < 7; i ++) {
           dropoutRates[i] = iter.next();
